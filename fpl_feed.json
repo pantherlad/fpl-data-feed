@@ -1,5 +1,5 @@
 {
-  "generated_at_sgt": "2026-09-12 20:11 SGT",
+  "generated_at_sgt": "2026-09-12 20:26 SGT",
   "team_name": "Expected Toulouse",
   "overall_points": 210,
   "overall_rank": 1299569,
@@ -39,7 +39,7 @@
       "is_vice_captain": false,
       "multiplier": 1,
       "squad_slot": 2,
-      "selected_by_percent": "49.4",
+      "selected_by_percent": "49.5",
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null
@@ -67,7 +67,7 @@
       "is_vice_captain": false,
       "multiplier": 1,
       "squad_slot": 4,
-      "selected_by_percent": "23.1",
+      "selected_by_percent": "23.2",
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null
@@ -81,7 +81,7 @@
       "is_vice_captain": false,
       "multiplier": 1,
       "squad_slot": 5,
-      "selected_by_percent": "14.0",
+      "selected_by_percent": "14.1",
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null
@@ -95,7 +95,7 @@
       "is_vice_captain": false,
       "multiplier": 1,
       "squad_slot": 6,
-      "selected_by_percent": "28.5",
+      "selected_by_percent": "28.6",
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100
@@ -109,7 +109,7 @@
       "is_vice_captain": true,
       "multiplier": 1,
       "squad_slot": 7,
-      "selected_by_percent": "28.8",
+      "selected_by_percent": "28.7",
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null
@@ -221,7 +221,7 @@
       "is_vice_captain": false,
       "multiplier": 0,
       "squad_slot": 15,
-      "selected_by_percent": "17.3",
+      "selected_by_percent": "17.4",
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null
@@ -1552,7 +1552,7 @@
     "numPlayers": 16,
     "entryFeePerMonth": 10,
     "fixtureAlerts": [],
-    "lastRefreshed": "2026-09-12T12:01:02.662Z"
+    "lastRefreshed": "2026-09-12T12:15:57.981Z"
   },
   "the_regulars_league_error": null,
   "team_fixture_run": {
@@ -5816,8 +5816,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 244172,
-      "transfers_out_event": 210406
+      "transfers_in_event": 246550,
+      "transfers_out_event": 212551
     },
     {
       "name": "Arrizabalaga",
@@ -5838,7 +5838,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 274,
-      "transfers_out_event": 847
+      "transfers_out_event": 850
     },
     {
       "name": "Meslier",
@@ -5859,7 +5859,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 107,
-      "transfers_out_event": 304
+      "transfers_out_event": 306
     },
     {
       "name": "Gabriel",
@@ -5869,7 +5869,7 @@
       "total_points": 15,
       "points_per_game": "5.0",
       "form": "5.0",
-      "selected_by_percent": "23.9",
+      "selected_by_percent": "23.8",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 0,
@@ -5879,8 +5879,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 55650,
-      "transfers_out_event": 249812
+      "transfers_in_event": 56128,
+      "transfers_out_event": 252179
     },
     {
       "name": "J.Timber",
@@ -5900,8 +5900,8 @@
       "status": "d",
       "news": "Groin injury - 25% chance of playing",
       "chance_of_playing_next_round": 25,
-      "transfers_in_event": 612,
-      "transfers_out_event": 1386
+      "transfers_in_event": 617,
+      "transfers_out_event": 1388
     },
     {
       "name": "Saliba",
@@ -5921,8 +5921,8 @@
       "status": "i",
       "news": "Back injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 732,
-      "transfers_out_event": 3232
+      "transfers_in_event": 733,
+      "transfers_out_event": 3242
     },
     {
       "name": "Lewis-Skelly",
@@ -5942,8 +5942,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6844,
-      "transfers_out_event": 10951
+      "transfers_in_event": 6879,
+      "transfers_out_event": 11043
     },
     {
       "name": "Calafiori",
@@ -5953,7 +5953,7 @@
       "total_points": 22,
       "points_per_game": "7.3",
       "form": "7.3",
-      "selected_by_percent": "49.4",
+      "selected_by_percent": "49.5",
       "minutes": 236,
       "starts": 3,
       "goals_scored": 0,
@@ -5963,8 +5963,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 480213,
-      "transfers_out_event": 92998
+      "transfers_in_event": 484152,
+      "transfers_out_event": 93875
     },
     {
       "name": "Hincapie",
@@ -5984,8 +5984,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3876,
-      "transfers_out_event": 19143
+      "transfers_in_event": 3903,
+      "transfers_out_event": 19281
     },
     {
       "name": "White",
@@ -6005,8 +6005,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 121359,
-      "transfers_out_event": 114533
+      "transfers_in_event": 122407,
+      "transfers_out_event": 115722
     },
     {
       "name": "Mosquera",
@@ -6016,7 +6016,7 @@
       "total_points": 12,
       "points_per_game": "6.0",
       "form": "4.0",
-      "selected_by_percent": "2.4",
+      "selected_by_percent": "2.3",
       "minutes": 168,
       "starts": 2,
       "goals_scored": 0,
@@ -6026,8 +6026,8 @@
       "status": "d",
       "news": "Muscular injury - 50% chance of playing",
       "chance_of_playing_next_round": 50,
-      "transfers_in_event": 730,
-      "transfers_out_event": 198982
+      "transfers_in_event": 731,
+      "transfers_out_event": 200914
     },
     {
       "name": "Saka",
@@ -6047,8 +6047,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 207863,
-      "transfers_out_event": 145349
+      "transfers_in_event": 210276,
+      "transfers_out_event": 146944
     },
     {
       "name": "Rice",
@@ -6068,8 +6068,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 25597,
-      "transfers_out_event": 150333
+      "transfers_in_event": 25742,
+      "transfers_out_event": 151568
     },
     {
       "name": "Eze",
@@ -6089,8 +6089,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3867,
-      "transfers_out_event": 29422
+      "transfers_in_event": 3893,
+      "transfers_out_event": 29592
     },
     {
       "name": "?degaard",
@@ -6100,7 +6100,7 @@
       "total_points": 24,
       "points_per_game": "8.0",
       "form": "8.0",
-      "selected_by_percent": "18.8",
+      "selected_by_percent": "18.9",
       "minutes": 221,
       "starts": 3,
       "goals_scored": 2,
@@ -6110,8 +6110,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 800462,
-      "transfers_out_event": 114314
+      "transfers_in_event": 810593,
+      "transfers_out_event": 115903
     },
     {
       "name": "Madueke",
@@ -6131,8 +6131,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1391,
-      "transfers_out_event": 4432
+      "transfers_in_event": 1395,
+      "transfers_out_event": 4457
     },
     {
       "name": "Merino",
@@ -6152,8 +6152,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1894,
-      "transfers_out_event": 9762
+      "transfers_in_event": 1901,
+      "transfers_out_event": 9812
     },
     {
       "name": "Martinelli",
@@ -6174,7 +6174,7 @@
       "news": "Has joined Al Hilal permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 6124
+      "transfers_out_event": 6148
     },
     {
       "name": "Zubimendi",
@@ -6194,8 +6194,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1495,
-      "transfers_out_event": 12808
+      "transfers_in_event": 1500,
+      "transfers_out_event": 12899
     },
     {
       "name": "Dowman",
@@ -6215,8 +6215,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 622,
-      "transfers_out_event": 1327
+      "transfers_in_event": 626,
+      "transfers_out_event": 1335
     },
     {
       "name": "Nwaneri",
@@ -6237,7 +6237,7 @@
       "news": "Has joined Borussia Dortmund on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 331
+      "transfers_out_event": 332
     },
     {
       "name": "F?bio Vieira",
@@ -6258,7 +6258,7 @@
       "news": "Has joined Hamburger SV permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 264
+      "transfers_out_event": 265
     },
     {
       "name": "Nelson",
@@ -6299,8 +6299,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6095,
-      "transfers_out_event": 96832
+      "transfers_in_event": 6115,
+      "transfers_out_event": 97570
     },
     {
       "name": "Havertz",
@@ -6320,8 +6320,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 192885,
-      "transfers_out_event": 76000
+      "transfers_in_event": 194456,
+      "transfers_out_event": 76640
     },
     {
       "name": "G.Jesus",
@@ -6342,7 +6342,7 @@
       "news": "Has joined FC Barcelona permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 7659
+      "transfers_out_event": 7679
     },
     {
       "name": "Konsa",
@@ -6352,7 +6352,7 @@
       "total_points": 5,
       "points_per_game": "2.5",
       "form": "1.7",
-      "selected_by_percent": "17.3",
+      "selected_by_percent": "17.4",
       "minutes": 101,
       "starts": 1,
       "goals_scored": 0,
@@ -6362,8 +6362,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 690820,
-      "transfers_out_event": 95384
+      "transfers_in_event": 700072,
+      "transfers_out_event": 96120
     },
     {
       "name": "Bruno G.",
@@ -6383,8 +6383,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 2323,
-      "transfers_out_event": 37509
+      "transfers_in_event": 2336,
+      "transfers_out_event": 37712
     },
     {
       "name": "Tzolis",
@@ -6404,8 +6404,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 81238,
-      "transfers_out_event": 400635
+      "transfers_in_event": 81993,
+      "transfers_out_event": 405686
     },
     {
       "name": "M.Bizot",
@@ -6425,8 +6425,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1011,
-      "transfers_out_event": 1604
+      "transfers_in_event": 1017,
+      "transfers_out_event": 1620
     },
     {
       "name": "Digne",
@@ -6447,7 +6447,7 @@
       "news": "Has joined Paris Saint-Germain permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 928
+      "transfers_out_event": 931
     },
     {
       "name": "Cash",
@@ -6467,8 +6467,8 @@
       "status": "d",
       "news": "Muscular injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 18730,
-      "transfers_out_event": 97280
+      "transfers_in_event": 18753,
+      "transfers_out_event": 98510
     },
     {
       "name": "Mings",
@@ -6488,8 +6488,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5220,
-      "transfers_out_event": 2486
+      "transfers_in_event": 5273,
+      "transfers_out_event": 2512
     },
     {
       "name": "Pau",
@@ -6509,8 +6509,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3786,
-      "transfers_out_event": 5487
+      "transfers_in_event": 3830,
+      "transfers_out_event": 5538
     },
     {
       "name": "Bogarde",
@@ -6530,8 +6530,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 677,
-      "transfers_out_event": 1108
+      "transfers_in_event": 680,
+      "transfers_out_event": 1117
     },
     {
       "name": "Maatsen",
@@ -6551,8 +6551,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 17091,
-      "transfers_out_event": 6847
+      "transfers_in_event": 17273,
+      "transfers_out_event": 6924
     },
     {
       "name": "Lindel?f",
@@ -6572,8 +6572,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5006,
-      "transfers_out_event": 2075
+      "transfers_in_event": 5062,
+      "transfers_out_event": 2086
     },
     {
       "name": "A.Garc?a",
@@ -6593,8 +6593,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12586,
-      "transfers_out_event": 16943
+      "transfers_in_event": 12685,
+      "transfers_out_event": 17038
     },
     {
       "name": "Nedeljkovic",
@@ -6615,7 +6615,7 @@
       "news": "Has joined Rangers on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2174
+      "transfers_out_event": 2178
     },
     {
       "name": "Buend?a",
@@ -6635,8 +6635,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 15551,
-      "transfers_out_event": 21505
+      "transfers_in_event": 15794,
+      "transfers_out_event": 21688
     },
     {
       "name": "Bailey",
@@ -6657,7 +6657,7 @@
       "news": "Has joined Olympiakos permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 4662
+      "transfers_out_event": 4688
     },
     {
       "name": "McGinn",
@@ -6677,8 +6677,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 20106,
-      "transfers_out_event": 32747
+      "transfers_in_event": 20317,
+      "transfers_out_event": 33007
     },
     {
       "name": "Barkley",
@@ -6698,8 +6698,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5162,
-      "transfers_out_event": 3699
+      "transfers_in_event": 5206,
+      "transfers_out_event": 3726
     },
     {
       "name": "Kamara",
@@ -6719,8 +6719,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 3623,
-      "transfers_out_event": 4619
+      "transfers_in_event": 3647,
+      "transfers_out_event": 4666
     },
     {
       "name": "Onana",
@@ -6782,8 +6782,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6608,
-      "transfers_out_event": 8503
+      "transfers_in_event": 6625,
+      "transfers_out_event": 8564
     },
     {
       "name": "George Hemmings",
@@ -6803,8 +6803,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 52474,
-      "transfers_out_event": 22312
+      "transfers_in_event": 52931,
+      "transfers_out_event": 22527
     },
     {
       "name": "Alysson",
@@ -6824,8 +6824,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 500,
-      "transfers_out_event": 707
+      "transfers_in_event": 504,
+      "transfers_out_event": 710
     },
     {
       "name": "Manzambi",
@@ -6845,8 +6845,8 @@
       "status": "d",
       "news": "Knee injury - 50% chance of playing",
       "chance_of_playing_next_round": 50,
-      "transfers_in_event": 563,
-      "transfers_out_event": 1767
+      "transfers_in_event": 565,
+      "transfers_out_event": 1780
     },
     {
       "name": "Gomes",
@@ -6866,8 +6866,8 @@
       "status": "s",
       "news": "Suspended until 19 Sep",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 130,
-      "transfers_out_event": 507
+      "transfers_in_event": 131,
+      "transfers_out_event": 509
     },
     {
       "name": "Watkins",
@@ -6888,7 +6888,7 @@
       "news": "Has joined Al Hilal permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 125044
+      "transfers_out_event": 125756
     },
     {
       "name": "Abraham",
@@ -6908,8 +6908,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 4153,
-      "transfers_out_event": 2794
+      "transfers_in_event": 4168,
+      "transfers_out_event": 2808
     },
     {
       "name": "Garnacho",
@@ -6929,8 +6929,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1518,
-      "transfers_out_event": 8647
+      "transfers_in_event": 1522,
+      "transfers_out_event": 8712
     },
     {
       "name": "N.Jackson",
@@ -6950,8 +6950,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 46300,
-      "transfers_out_event": 18094
+      "transfers_in_event": 46834,
+      "transfers_out_event": 18225
     },
     {
       "name": "Madjo",
@@ -6971,8 +6971,8 @@
       "status": "i",
       "news": "Unspecified injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 355,
-      "transfers_out_event": 5762
+      "transfers_in_event": 357,
+      "transfers_out_event": 5806
     },
     {
       "name": "Ruggeri",
@@ -6992,8 +6992,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 270,
-      "transfers_out_event": 1244
+      "transfers_in_event": 271,
+      "transfers_out_event": 1257
     },
     {
       "name": "Suzuki",
@@ -7013,8 +7013,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 82308,
-      "transfers_out_event": 18539
+      "transfers_in_event": 83015,
+      "transfers_out_event": 18769
     },
     {
       "name": "Rowe",
@@ -7034,8 +7034,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2878,
-      "transfers_out_event": 1717
+      "transfers_in_event": 2891,
+      "transfers_out_event": 1723
     },
     {
       "name": "Lynch",
@@ -7056,7 +7056,7 @@
       "news": "Has joined Oxford United on loan until January",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2909
+      "transfers_out_event": 2916
     },
     {
       "name": "Wan-Bissaka",
@@ -7076,8 +7076,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3989,
-      "transfers_out_event": 2194
+      "transfers_in_event": 4039,
+      "transfers_out_event": 2210
     },
     {
       "name": "Goretzka",
@@ -7097,8 +7097,8 @@
       "status": "i",
       "news": "Knee injury - Expected back 10 Oct",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 892,
-      "transfers_out_event": 2079
+      "transfers_in_event": 901,
+      "transfers_out_event": 2098
     },
     {
       "name": "Harwood-Bellis",
@@ -7118,8 +7118,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 649,
-      "transfers_out_event": 263
+      "transfers_in_event": 650,
+      "transfers_out_event": 265
     },
     {
       "name": "Mbaye",
@@ -7139,8 +7139,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2765,
-      "transfers_out_event": 1556
+      "transfers_in_event": 2778,
+      "transfers_out_event": 1567
     },
     {
       "name": "Petrovi?",
@@ -7160,8 +7160,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 27030,
-      "transfers_out_event": 36402
+      "transfers_in_event": 27267,
+      "transfers_out_event": 36770
     },
     {
       "name": "Forster",
@@ -7181,8 +7181,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 38070,
-      "transfers_out_event": 23686
+      "transfers_in_event": 38417,
+      "transfers_out_event": 23944
     },
     {
       "name": "Dennis",
@@ -7203,7 +7203,7 @@
       "news": "Has joined MK Dons permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1588
+      "transfers_out_event": 1597
     },
     {
       "name": "Hill",
@@ -7223,8 +7223,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 8024,
-      "transfers_out_event": 10419
+      "transfers_in_event": 8109,
+      "transfers_out_event": 10499
     },
     {
       "name": "Truffert",
@@ -7244,8 +7244,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12617,
-      "transfers_out_event": 45312
+      "transfers_in_event": 12773,
+      "transfers_out_event": 45617
     },
     {
       "name": "Diakit?",
@@ -7265,8 +7265,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1296,
-      "transfers_out_event": 2630
+      "transfers_in_event": 1305,
+      "transfers_out_event": 2643
     },
     {
       "name": "Milosavljevi?",
@@ -7286,8 +7286,8 @@
       "status": "i",
       "news": "Thigh injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 68,
-      "transfers_out_event": 161
+      "transfers_in_event": 70,
+      "transfers_out_event": 163
     },
     {
       "name": "Smith",
@@ -7307,8 +7307,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1478,
-      "transfers_out_event": 1712
+      "transfers_in_event": 1494,
+      "transfers_out_event": 1726
     },
     {
       "name": "J.Araujo",
@@ -7349,8 +7349,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 4196,
-      "transfers_out_event": 2673
+      "transfers_in_event": 4243,
+      "transfers_out_event": 2685
     },
     {
       "name": "Rayan",
@@ -7370,8 +7370,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 8403,
-      "transfers_out_event": 41415
+      "transfers_in_event": 8475,
+      "transfers_out_event": 41702
     },
     {
       "name": "Tavernier",
@@ -7391,8 +7391,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 173698,
-      "transfers_out_event": 50329
+      "transfers_in_event": 175573,
+      "transfers_out_event": 50884
     },
     {
       "name": "Scott",
@@ -7412,8 +7412,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 380871,
-      "transfers_out_event": 60794
+      "transfers_in_event": 383865,
+      "transfers_out_event": 61567
     },
     {
       "name": "Kluivert",
@@ -7433,8 +7433,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 8473,
-      "transfers_out_event": 20445
+      "transfers_in_event": 8585,
+      "transfers_out_event": 20590
     },
     {
       "name": "Cook",
@@ -7454,8 +7454,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2102,
-      "transfers_out_event": 3448
+      "transfers_in_event": 2121,
+      "transfers_out_event": 3478
     },
     {
       "name": "Gannon-Doak",
@@ -7475,8 +7475,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 403,
-      "transfers_out_event": 1017
+      "transfers_in_event": 409,
+      "transfers_out_event": 1022
     },
     {
       "name": "Adams",
@@ -7496,8 +7496,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 5535,
-      "transfers_out_event": 3540
+      "transfers_in_event": 5566,
+      "transfers_out_event": 3565
     },
     {
       "name": "Brooks",
@@ -7517,8 +7517,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 766,
-      "transfers_out_event": 850
+      "transfers_in_event": 773,
+      "transfers_out_event": 857
     },
     {
       "name": "Christie",
@@ -7538,8 +7538,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1098,
-      "transfers_out_event": 567
+      "transfers_in_event": 1108,
+      "transfers_out_event": 571
     },
     {
       "name": "T?th.A",
@@ -7560,7 +7560,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 72,
-      "transfers_out_event": 206
+      "transfers_out_event": 208
     },
     {
       "name": "Adli",
@@ -7581,7 +7581,7 @@
       "news": "Calf injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 52,
-      "transfers_out_event": 324
+      "transfers_out_event": 327
     },
     {
       "name": "Kroupi.Jr",
@@ -7601,8 +7601,8 @@
       "status": "i",
       "news": "Foot injury - Expected back 7 Nov",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 196,
-      "transfers_out_event": 3291
+      "transfers_in_event": 197,
+      "transfers_out_event": 3305
     },
     {
       "name": "Evanilson",
@@ -7622,8 +7622,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 48127,
-      "transfers_out_event": 44792
+      "transfers_in_event": 48565,
+      "transfers_out_event": 45109
     },
     {
       "name": "Enes ?nal",
@@ -7664,8 +7664,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1242,
-      "transfers_out_event": 1637
+      "transfers_in_event": 1245,
+      "transfers_out_event": 1645
     },
     {
       "name": "Silva",
@@ -7685,8 +7685,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5597,
-      "transfers_out_event": 5928
+      "transfers_in_event": 5659,
+      "transfers_out_event": 5966
     },
     {
       "name": "Sanchez",
@@ -7706,8 +7706,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 282,
-      "transfers_out_event": 1582
+      "transfers_in_event": 285,
+      "transfers_out_event": 1593
     },
     {
       "name": "Jebbison",
@@ -7727,8 +7727,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3346,
-      "transfers_out_event": 1869
+      "transfers_in_event": 3366,
+      "transfers_out_event": 1879
     },
     {
       "name": "Di Gregorio",
@@ -7748,8 +7748,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 748,
-      "transfers_out_event": 521
+      "transfers_in_event": 752,
+      "transfers_out_event": 525
     },
     {
       "name": "Kelleher",
@@ -7769,8 +7769,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 33957,
-      "transfers_out_event": 57347
+      "transfers_in_event": 34186,
+      "transfers_out_event": 57879
     },
     {
       "name": "Valdimarsson",
@@ -7790,8 +7790,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 623,
-      "transfers_out_event": 1050
+      "transfers_in_event": 626,
+      "transfers_out_event": 1060
     },
     {
       "name": "Collins",
@@ -7811,8 +7811,8 @@
       "status": "i",
       "news": "Calf injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 1250,
-      "transfers_out_event": 76911
+      "transfers_in_event": 1251,
+      "transfers_out_event": 77520
     },
     {
       "name": "Van den Berg",
@@ -7832,8 +7832,8 @@
       "status": "i",
       "news": "Groin injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 69,
-      "transfers_out_event": 1248
+      "transfers_in_event": 70,
+      "transfers_out_event": 1251
     },
     {
       "name": "Lewis-Potter",
@@ -7853,8 +7853,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 26276,
-      "transfers_out_event": 32250
+      "transfers_in_event": 26456,
+      "transfers_out_event": 32569
     },
     {
       "name": "Ajer",
@@ -7874,8 +7874,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 51151,
-      "transfers_out_event": 101021
+      "transfers_in_event": 51594,
+      "transfers_out_event": 102339
     },
     {
       "name": "Kayode",
@@ -7895,8 +7895,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 51325,
-      "transfers_out_event": 109294
+      "transfers_in_event": 51739,
+      "transfers_out_event": 110107
     },
     {
       "name": "Henry",
@@ -7916,8 +7916,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 305,
-      "transfers_out_event": 1969
+      "transfers_in_event": 307,
+      "transfers_out_event": 1995
     },
     {
       "name": "Hickey",
@@ -7937,8 +7937,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 307,
-      "transfers_out_event": 706
+      "transfers_in_event": 308,
+      "transfers_out_event": 707
     },
     {
       "name": "Ji-soo",
@@ -7959,7 +7959,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 102,
-      "transfers_out_event": 226
+      "transfers_out_event": 227
     },
     {
       "name": "Schuster",
@@ -7979,8 +7979,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 885,
-      "transfers_out_event": 724
+      "transfers_in_event": 898,
+      "transfers_out_event": 731
     },
     {
       "name": "Schade",
@@ -8000,8 +8000,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 28459,
-      "transfers_out_event": 85849
+      "transfers_in_event": 28734,
+      "transfers_out_event": 86954
     },
     {
       "name": "O.Dango",
@@ -8021,8 +8021,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1349,
-      "transfers_out_event": 22873
+      "transfers_in_event": 1366,
+      "transfers_out_event": 23126
     },
     {
       "name": "Damsgaard",
@@ -8042,8 +8042,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5653,
-      "transfers_out_event": 4836
+      "transfers_in_event": 5698,
+      "transfers_out_event": 4882
     },
     {
       "name": "Jensen",
@@ -8063,8 +8063,8 @@
       "status": "i",
       "news": "Unspecified injury - Expected back 18 Sep",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 40,
-      "transfers_out_event": 4235
+      "transfers_in_event": 41,
+      "transfers_out_event": 4262
     },
     {
       "name": "Janelt",
@@ -8084,8 +8084,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 173072,
-      "transfers_out_event": 36574
+      "transfers_in_event": 174873,
+      "transfers_out_event": 37022
     },
     {
       "name": "Milambo",
@@ -8105,7 +8105,7 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 25,
+      "transfers_in_event": 27,
       "transfers_out_event": 32
     },
     {
@@ -8126,8 +8126,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 330,
-      "transfers_out_event": 329
+      "transfers_in_event": 333,
+      "transfers_out_event": 331
     },
     {
       "name": "Yarmoliuk",
@@ -8147,8 +8147,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 696,
-      "transfers_out_event": 16161
+      "transfers_in_event": 703,
+      "transfers_out_event": 16286
     },
     {
       "name": "Dasilva",
@@ -8169,7 +8169,7 @@
       "news": "Hamstring injury - Expected back 10 Oct",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 36,
-      "transfers_out_event": 643
+      "transfers_out_event": 645
     },
     {
       "name": "Anthony",
@@ -8189,8 +8189,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 751,
-      "transfers_out_event": 2528
+      "transfers_in_event": 758,
+      "transfers_out_event": 2544
     },
     {
       "name": "Thiago",
@@ -8210,8 +8210,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 23817,
-      "transfers_out_event": 315718
+      "transfers_in_event": 23999,
+      "transfers_out_event": 318599
     },
     {
       "name": "Furo",
@@ -8231,8 +8231,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 18810,
-      "transfers_out_event": 14321
+      "transfers_in_event": 18942,
+      "transfers_out_event": 14444
     },
     {
       "name": "Wilson",
@@ -8252,8 +8252,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2744,
-      "transfers_out_event": 5868
+      "transfers_in_event": 2753,
+      "transfers_out_event": 5897
     },
     {
       "name": "M.Sangar?",
@@ -8273,8 +8273,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 105344,
-      "transfers_out_event": 308544
+      "transfers_in_event": 106091,
+      "transfers_out_event": 311556
     },
     {
       "name": "Diouf",
@@ -8294,8 +8294,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1911,
-      "transfers_out_event": 1939
+      "transfers_in_event": 1924,
+      "transfers_out_event": 1959
     },
     {
       "name": "Verbruggen",
@@ -8315,8 +8315,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 242834,
-      "transfers_out_event": 190696
+      "transfers_in_event": 245722,
+      "transfers_out_event": 193649
     },
     {
       "name": "Steele",
@@ -8336,8 +8336,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 46132,
-      "transfers_out_event": 35251
+      "transfers_in_event": 46548,
+      "transfers_out_event": 35644
     },
     {
       "name": "F.Kad?o?lu",
@@ -8357,8 +8357,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 6676,
-      "transfers_out_event": 24752
+      "transfers_in_event": 6755,
+      "transfers_out_event": 24997
     },
     {
       "name": "Boscagli",
@@ -8378,8 +8378,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2393,
-      "transfers_out_event": 2973
+      "transfers_in_event": 2420,
+      "transfers_out_event": 2999
     },
     {
       "name": "De Cuyper",
@@ -8389,7 +8389,7 @@
       "total_points": 21,
       "points_per_game": "7.0",
       "form": "7.0",
-      "selected_by_percent": "23.1",
+      "selected_by_percent": "23.2",
       "minutes": 243,
       "starts": 3,
       "goals_scored": 1,
@@ -8399,8 +8399,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 624720,
-      "transfers_out_event": 127383
+      "transfers_in_event": 632936,
+      "transfers_out_event": 129082
     },
     {
       "name": "Dunk",
@@ -8420,8 +8420,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 19351,
-      "transfers_out_event": 10191
+      "transfers_in_event": 19552,
+      "transfers_out_event": 10288
     },
     {
       "name": "Coppola",
@@ -8441,8 +8441,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 177,
-      "transfers_out_event": 228
+      "transfers_in_event": 178,
+      "transfers_out_event": 230
     },
     {
       "name": "Igor",
@@ -8463,7 +8463,7 @@
       "news": "Has joined Burnley permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1976
+      "transfers_out_event": 1984
     },
     {
       "name": "Costinha",
@@ -8483,8 +8483,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 202,
-      "transfers_out_event": 319
+      "transfers_in_event": 203,
+      "transfers_out_event": 321
     },
     {
       "name": "Svoboda",
@@ -8504,8 +8504,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 885,
-      "transfers_out_event": 888
+      "transfers_in_event": 891,
+      "transfers_out_event": 892
     },
     {
       "name": "Mitoma",
@@ -8526,7 +8526,7 @@
       "news": "Hamstring injury - Expected back 10 Oct",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 74,
-      "transfers_out_event": 453
+      "transfers_out_event": 456
     },
     {
       "name": "Minteh",
@@ -8547,7 +8547,7 @@
       "news": "Leg injury - Expected back 28 Nov",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 35,
-      "transfers_out_event": 745
+      "transfers_out_event": 749
     },
     {
       "name": "Hinshelwood",
@@ -8567,8 +8567,8 @@
       "status": "i",
       "news": "Ankle injury - Expected back 10 Oct",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 1029,
-      "transfers_out_event": 44854
+      "transfers_in_event": 1039,
+      "transfers_out_event": 45340
     },
     {
       "name": "Gro?",
@@ -8588,8 +8588,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 277528,
-      "transfers_out_event": 204148
+      "transfers_in_event": 280436,
+      "transfers_out_event": 207423
     },
     {
       "name": "Georginio",
@@ -8609,8 +8609,8 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 1227,
-      "transfers_out_event": 18381
+      "transfers_in_event": 1239,
+      "transfers_out_event": 18538
     },
     {
       "name": "O'Riley",
@@ -8630,8 +8630,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 888,
-      "transfers_out_event": 1401
+      "transfers_in_event": 897,
+      "transfers_out_event": 1406
     },
     {
       "name": "Gomez",
@@ -8651,8 +8651,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 104805,
-      "transfers_out_event": 99711
+      "transfers_in_event": 106217,
+      "transfers_out_event": 101109
     },
     {
       "name": "Buonanotte",
@@ -8693,8 +8693,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1969,
-      "transfers_out_event": 6103
+      "transfers_in_event": 1992,
+      "transfers_out_event": 6152
     },
     {
       "name": "Wieffer",
@@ -8715,7 +8715,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 67,
-      "transfers_out_event": 18437
+      "transfers_out_event": 18514
     },
     {
       "name": "Howell",
@@ -8736,7 +8736,7 @@
       "news": "Has joined Leicester City on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 573
+      "transfers_out_event": 574
     },
     {
       "name": "Watson",
@@ -8777,8 +8777,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2170,
-      "transfers_out_event": 3243
+      "transfers_in_event": 2177,
+      "transfers_out_event": 3266
     },
     {
       "name": "Yohanna",
@@ -8799,7 +8799,7 @@
       "news": "Unspecified injury - Expected back 10 Oct",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 317,
-      "transfers_out_event": 1428
+      "transfers_out_event": 1441
     },
     {
       "name": "Tzimas",
@@ -8840,8 +8840,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 16146,
-      "transfers_out_event": 9014
+      "transfers_in_event": 16295,
+      "transfers_out_event": 9094
     },
     {
       "name": "Ferguson",
@@ -8861,8 +8861,8 @@
       "status": "i",
       "news": "Ankle injury - Expected back 10 Oct",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 343,
-      "transfers_out_event": 518
+      "transfers_in_event": 344,
+      "transfers_out_event": 522
     },
     {
       "name": "Struijk",
@@ -8882,8 +8882,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1477,
-      "transfers_out_event": 2461
+      "transfers_in_event": 1488,
+      "transfers_out_event": 2478
     },
     {
       "name": "Vuskovic",
@@ -8903,8 +8903,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 128690,
-      "transfers_out_event": 43593
+      "transfers_in_event": 130118,
+      "transfers_out_event": 44166
     },
     {
       "name": "David",
@@ -8924,8 +8924,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2769,
-      "transfers_out_event": 5159
+      "transfers_in_event": 2783,
+      "transfers_out_event": 5188
     },
     {
       "name": "Osman",
@@ -8946,7 +8946,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 151,
-      "transfers_out_event": 296
+      "transfers_out_event": 299
     },
     {
       "name": "Yalcouy?",
@@ -8966,8 +8966,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 181640,
-      "transfers_out_event": 58817
+      "transfers_in_event": 183449,
+      "transfers_out_event": 59509
     },
     {
       "name": "Hadjam",
@@ -8987,8 +8987,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 421,
-      "transfers_out_event": 554
+      "transfers_in_event": 424,
+      "transfers_out_event": 559
     },
     {
       "name": "Cozier-Duberry",
@@ -9029,8 +9029,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 508,
-      "transfers_out_event": 193
+      "transfers_in_event": 510,
+      "transfers_out_event": 194
     },
     {
       "name": "Azeez",
@@ -9050,8 +9050,8 @@
       "status": "d",
       "news": "Hamstring injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 116,
-      "transfers_out_event": 58
+      "transfers_in_event": 120,
+      "transfers_out_event": 59
     },
     {
       "name": "Martinez",
@@ -9071,8 +9071,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 117132,
-      "transfers_out_event": 49857
+      "transfers_in_event": 118122,
+      "transfers_out_event": 50246
     },
     {
       "name": "Rogers",
@@ -9082,7 +9082,7 @@
       "total_points": 19,
       "points_per_game": "6.3",
       "form": "6.3",
-      "selected_by_percent": "35.5",
+      "selected_by_percent": "35.6",
       "minutes": 257,
       "starts": 3,
       "goals_scored": 2,
@@ -9092,8 +9092,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1132795,
-      "transfers_out_event": 126182
+      "transfers_in_event": 1150429,
+      "transfers_out_event": 127349
     },
     {
       "name": "Henderson",
@@ -9114,7 +9114,7 @@
       "news": "Wrist injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 143,
-      "transfers_out_event": 579
+      "transfers_out_event": 584
     },
     {
       "name": "Welbeck",
@@ -9134,8 +9134,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 7919,
-      "transfers_out_event": 13014
+      "transfers_in_event": 7964,
+      "transfers_out_event": 13071
     },
     {
       "name": "S?nchez",
@@ -9156,7 +9156,7 @@
       "news": "Has joined Como on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 43877
+      "transfers_out_event": 44218
     },
     {
       "name": "J?rgensen",
@@ -9197,8 +9197,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 59031,
-      "transfers_out_event": 90039
+      "transfers_in_event": 59731,
+      "transfers_out_event": 90763
     },
     {
       "name": "Chalobah",
@@ -9219,7 +9219,7 @@
       "news": "Has joined Como permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1327
+      "transfers_out_event": 1333
     },
     {
       "name": "Gusto",
@@ -9239,8 +9239,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 7359,
-      "transfers_out_event": 13947
+      "transfers_in_event": 7418,
+      "transfers_out_event": 14040
     },
     {
       "name": "Fofana",
@@ -9260,8 +9260,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 9226,
-      "transfers_out_event": 1957
+      "transfers_in_event": 9310,
+      "transfers_out_event": 1990
     },
     {
       "name": "B.Badiashile",
@@ -9282,7 +9282,7 @@
       "news": "Has joined Napoli on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 247
+      "transfers_out_event": 248
     },
     {
       "name": "Hato",
@@ -9302,8 +9302,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 57181,
-      "transfers_out_event": 15393
+      "transfers_in_event": 57885,
+      "transfers_out_event": 15521
     },
     {
       "name": "Colwill",
@@ -9323,8 +9323,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5279,
-      "transfers_out_event": 22318
+      "transfers_in_event": 5318,
+      "transfers_out_event": 22522
     },
     {
       "name": "M.Sarr",
@@ -9345,7 +9345,7 @@
       "news": "Has joined Real Sociedad on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1051
+      "transfers_out_event": 1057
     },
     {
       "name": "Acheampong",
@@ -9365,8 +9365,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6185,
-      "transfers_out_event": 4552
+      "transfers_in_event": 6254,
+      "transfers_out_event": 4582
     },
     {
       "name": "Palestra",
@@ -9386,8 +9386,8 @@
       "status": "i",
       "news": "Thigh injury - Expected back 18 Sep",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 415,
-      "transfers_out_event": 44472
+      "transfers_in_event": 418,
+      "transfers_out_event": 45060
     },
     {
       "name": "Palmer",
@@ -9397,7 +9397,7 @@
       "total_points": 21,
       "points_per_game": "7.0",
       "form": "7.0",
-      "selected_by_percent": "28.5",
+      "selected_by_percent": "28.6",
       "minutes": 262,
       "starts": 3,
       "goals_scored": 2,
@@ -9407,8 +9407,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 916128,
-      "transfers_out_event": 102813
+      "transfers_in_event": 930833,
+      "transfers_out_event": 103419
     },
     {
       "name": "Neto",
@@ -9428,8 +9428,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 32797,
-      "transfers_out_event": 16242
+      "transfers_in_event": 33225,
+      "transfers_out_event": 16379
     },
     {
       "name": "Est?v?o",
@@ -9449,8 +9449,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3832,
-      "transfers_out_event": 13867
+      "transfers_in_event": 3849,
+      "transfers_out_event": 13968
     },
     {
       "name": "Gittens",
@@ -9470,8 +9470,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 247,
-      "transfers_out_event": 469
+      "transfers_in_event": 249,
+      "transfers_out_event": 474
     },
     {
       "name": "Caicedo",
@@ -9492,7 +9492,7 @@
       "news": "Calf injury - Expected back 18 Sep",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 1340,
-      "transfers_out_event": 49322
+      "transfers_out_event": 49761
     },
     {
       "name": "Lavia",
@@ -9512,8 +9512,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 7459,
-      "transfers_out_event": 3976
+      "transfers_in_event": 7501,
+      "transfers_out_event": 4000
     },
     {
       "name": "D.Essugo",
@@ -9534,7 +9534,7 @@
       "news": "Has joined RC Strasbourg on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 4129
+      "transfers_out_event": 4147
     },
     {
       "name": "Quenda",
@@ -9555,7 +9555,7 @@
       "news": "",
       "chance_of_playing_next_round": 100,
       "transfers_in_event": 154,
-      "transfers_out_event": 659
+      "transfers_out_event": 665
     },
     {
       "name": "Jo?o Pedro",
@@ -9575,8 +9575,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 394224,
-      "transfers_out_event": 103743
+      "transfers_in_event": 398134,
+      "transfers_out_event": 104265
     },
     {
       "name": "Marc Guiu",
@@ -9597,7 +9597,7 @@
       "news": "Has joined RB Leipzig permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 8604
+      "transfers_out_event": 8662
     },
     {
       "name": "Mheuka",
@@ -9617,8 +9617,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6825,
-      "transfers_out_event": 5656
+      "transfers_in_event": 6860,
+      "transfers_out_event": 5694
     },
     {
       "name": "Emegha",
@@ -9638,8 +9638,8 @@
       "status": "i",
       "news": "Hamstring injury - Expected back 18 Sep",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 1716,
-      "transfers_out_event": 3096
+      "transfers_in_event": 1718,
+      "transfers_out_event": 3125
     },
     {
       "name": "Lacroix",
@@ -9659,8 +9659,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 59835,
-      "transfers_out_event": 78778
+      "transfers_in_event": 60335,
+      "transfers_out_event": 79366
     },
     {
       "name": "Penders",
@@ -9680,8 +9680,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 314,
-      "transfers_out_event": 794
+      "transfers_in_event": 319,
+      "transfers_out_event": 799
     },
     {
       "name": "Anselmino",
@@ -9701,8 +9701,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 219,
-      "transfers_out_event": 210
+      "transfers_in_event": 221,
+      "transfers_out_event": 211
     },
     {
       "name": "Barco",
@@ -9722,8 +9722,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 848,
-      "transfers_out_event": 1437
+      "transfers_in_event": 859,
+      "transfers_out_event": 1448
     },
     {
       "name": "Chavarria",
@@ -9743,8 +9743,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 668,
-      "transfers_out_event": 2254
+      "transfers_in_event": 676,
+      "transfers_out_event": 2276
     },
     {
       "name": "Pinnock",
@@ -9764,8 +9764,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 670,
-      "transfers_out_event": 761
+      "transfers_in_event": 679,
+      "transfers_out_event": 765
     },
     {
       "name": "Onyeka",
@@ -9785,8 +9785,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 623,
-      "transfers_out_event": 1692
+      "transfers_in_event": 624,
+      "transfers_out_event": 1703
     },
     {
       "name": "Rushworth",
@@ -9806,8 +9806,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5242,
-      "transfers_out_event": 16213
+      "transfers_in_event": 5302,
+      "transfers_out_event": 16445
     },
     {
       "name": "Dovin",
@@ -9828,7 +9828,7 @@
       "news": "Has joined Leyton Orient on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 17868
+      "transfers_out_event": 17981
     },
     {
       "name": "Wilson",
@@ -9848,8 +9848,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 236,
-      "transfers_out_event": 2274
+      "transfers_in_event": 241,
+      "transfers_out_event": 2296
     },
     {
       "name": "Thomas",
@@ -9859,7 +9859,7 @@
       "total_points": 15,
       "points_per_game": "5.0",
       "form": "5.0",
-      "selected_by_percent": "9.3",
+      "selected_by_percent": "9.4",
       "minutes": 257,
       "starts": 3,
       "goals_scored": 0,
@@ -9869,8 +9869,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 149778,
-      "transfers_out_event": 81230
+      "transfers_in_event": 151835,
+      "transfers_out_event": 82216
     },
     {
       "name": "Kitching",
@@ -9891,7 +9891,7 @@
       "news": "Has joined Sheffield United on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 10413
+      "transfers_out_event": 10476
     },
     {
       "name": "van Ewijk",
@@ -9911,8 +9911,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 31986,
-      "transfers_out_event": 136048
+      "transfers_in_event": 32294,
+      "transfers_out_event": 137403
     },
     {
       "name": "Dasilva",
@@ -9932,8 +9932,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2449,
-      "transfers_out_event": 4735
+      "transfers_in_event": 2479,
+      "transfers_out_event": 4770
     },
     {
       "name": "Kesler-Hayden",
@@ -9954,7 +9954,7 @@
       "news": "Hamstring injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 111,
-      "transfers_out_event": 696
+      "transfers_out_event": 706
     },
     {
       "name": "Bidwell",
@@ -9974,8 +9974,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 640,
-      "transfers_out_event": 796
+      "transfers_in_event": 642,
+      "transfers_out_event": 801
     },
     {
       "name": "Latibeaudiere",
@@ -9995,8 +9995,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 272,
-      "transfers_out_event": 364
+      "transfers_in_event": 276,
+      "transfers_out_event": 373
     },
     {
       "name": "Woolfenden",
@@ -10016,8 +10016,8 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 369,
-      "transfers_out_event": 1810
+      "transfers_in_event": 374,
+      "transfers_out_event": 1818
     },
     {
       "name": "Brau",
@@ -10038,7 +10038,7 @@
       "news": "Has joined Academico de Viseu on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 466
+      "transfers_out_event": 473
     },
     {
       "name": "Amenda",
@@ -10058,8 +10058,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3521,
-      "transfers_out_event": 5549
+      "transfers_in_event": 3559,
+      "transfers_out_event": 5596
     },
     {
       "name": "Rudoni",
@@ -10079,8 +10079,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 956,
-      "transfers_out_event": 1751
+      "transfers_in_event": 959,
+      "transfers_out_event": 1768
     },
     {
       "name": "Grimes",
@@ -10100,8 +10100,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 525,
-      "transfers_out_event": 2565
+      "transfers_in_event": 528,
+      "transfers_out_event": 2601
     },
     {
       "name": "Sakamoto",
@@ -10121,8 +10121,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 202,
-      "transfers_out_event": 1167
+      "transfers_in_event": 203,
+      "transfers_out_event": 1174
     },
     {
       "name": "Mason-Clark",
@@ -10142,8 +10142,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 220,
-      "transfers_out_event": 985
+      "transfers_in_event": 221,
+      "transfers_out_event": 993
     },
     {
       "name": "Eccles",
@@ -10164,7 +10164,7 @@
       "news": "Unspecified injury - Expected back 12 Oct",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 93,
-      "transfers_out_event": 339
+      "transfers_out_event": 340
     },
     {
       "name": "Torp",
@@ -10185,7 +10185,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 52,
-      "transfers_out_event": 1573
+      "transfers_out_event": 1580
     },
     {
       "name": "Shepherd",
@@ -10205,8 +10205,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1289,
-      "transfers_out_event": 2946
+      "transfers_in_event": 1296,
+      "transfers_out_event": 2979
     },
     {
       "name": "Tchaouna",
@@ -10227,7 +10227,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 187,
-      "transfers_out_event": 1545
+      "transfers_out_event": 1559
     },
     {
       "name": "Borges Rodrigues",
@@ -10248,7 +10248,7 @@
       "news": "Has joined Burton Albion on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 3296
+      "transfers_out_event": 3312
     },
     {
       "name": "Andrews",
@@ -10269,7 +10269,7 @@
       "news": "Has joined Oxford United on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 8193
+      "transfers_out_event": 8262
     },
     {
       "name": "Wright",
@@ -10290,7 +10290,7 @@
       "news": "Thigh injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 116,
-      "transfers_out_event": 1884
+      "transfers_out_event": 1896
     },
     {
       "name": "Thomas-Asante",
@@ -10310,8 +10310,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 11003,
-      "transfers_out_event": 12493
+      "transfers_in_event": 11079,
+      "transfers_out_event": 12585
     },
     {
       "name": "Simms",
@@ -10331,8 +10331,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5528,
-      "transfers_out_event": 13926
+      "transfers_in_event": 5572,
+      "transfers_out_event": 14048
     },
     {
       "name": "Markelo",
@@ -10374,7 +10374,7 @@
       "news": "Has joined KVC Westerlo on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 347
+      "transfers_out_event": 349
     },
     {
       "name": "Awoniyi",
@@ -10394,8 +10394,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 7076,
-      "transfers_out_event": 10114
+      "transfers_in_event": 7135,
+      "transfers_out_event": 10208
     },
     {
       "name": "Yirenkyi",
@@ -10415,8 +10415,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 631,
-      "transfers_out_event": 3092
+      "transfers_in_event": 636,
+      "transfers_out_event": 3112
     },
     {
       "name": "Hamer",
@@ -10436,8 +10436,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 144,
-      "transfers_out_event": 1265
+      "transfers_in_event": 146,
+      "transfers_out_event": 1282
     },
     {
       "name": "Cherif",
@@ -10457,8 +10457,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1306,
-      "transfers_out_event": 1575
+      "transfers_in_event": 1315,
+      "transfers_out_event": 1589
     },
     {
       "name": "Bentley",
@@ -10478,8 +10478,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 35518,
-      "transfers_out_event": 10327
+      "transfers_in_event": 36195,
+      "transfers_out_event": 10686
     },
     {
       "name": "Gboho",
@@ -10520,8 +10520,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2613,
-      "transfers_out_event": 243
+      "transfers_in_event": 2722,
+      "transfers_out_event": 252
     },
     {
       "name": "Guessand",
@@ -10541,8 +10541,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 928,
-      "transfers_out_event": 961
+      "transfers_in_event": 932,
+      "transfers_out_event": 965
     },
     {
       "name": "Disasi",
@@ -10562,8 +10562,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6988,
-      "transfers_out_event": 2416
+      "transfers_in_event": 7096,
+      "transfers_out_event": 2455
     },
     {
       "name": "Henderson",
@@ -10583,8 +10583,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 33175,
-      "transfers_out_event": 16591
+      "transfers_in_event": 33614,
+      "transfers_out_event": 16742
     },
     {
       "name": "Benitez",
@@ -10604,8 +10604,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 560,
-      "transfers_out_event": 945
+      "transfers_in_event": 562,
+      "transfers_out_event": 949
     },
     {
       "name": "Richards",
@@ -10625,8 +10625,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 8958,
-      "transfers_out_event": 8523
+      "transfers_in_event": 9049,
+      "transfers_out_event": 8566
     },
     {
       "name": "Canvot",
@@ -10646,8 +10646,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2508,
-      "transfers_out_event": 4086
+      "transfers_in_event": 2528,
+      "transfers_out_event": 4109
     },
     {
       "name": "Mitchell",
@@ -10667,8 +10667,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 253192,
-      "transfers_out_event": 45654
+      "transfers_in_event": 256517,
+      "transfers_out_event": 46217
     },
     {
       "name": "Sosa",
@@ -10710,7 +10710,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 57,
-      "transfers_out_event": 699
+      "transfers_out_event": 706
     },
     {
       "name": "Mingueza",
@@ -10730,8 +10730,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 677,
-      "transfers_out_event": 994
+      "transfers_in_event": 688,
+      "transfers_out_event": 1002
     },
     {
       "name": "Sarr",
@@ -10752,7 +10752,7 @@
       "news": "Groin injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 179,
-      "transfers_out_event": 36417
+      "transfers_out_event": 36742
     },
     {
       "name": "Wharton",
@@ -10772,8 +10772,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 8680,
-      "transfers_out_event": 10459
+      "transfers_in_event": 8738,
+      "transfers_out_event": 10546
     },
     {
       "name": "Yeremy",
@@ -10793,8 +10793,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 35485,
-      "transfers_out_event": 8930
+      "transfers_in_event": 36184,
+      "transfers_out_event": 9051
     },
     {
       "name": "Hughes",
@@ -10814,8 +10814,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 26202,
-      "transfers_out_event": 111507
+      "transfers_in_event": 26404,
+      "transfers_out_event": 112701
     },
     {
       "name": "Lerma",
@@ -10835,8 +10835,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 317,
-      "transfers_out_event": 1107
+      "transfers_in_event": 319,
+      "transfers_out_event": 1128
     },
     {
       "name": "Kamada",
@@ -10856,8 +10856,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 17668,
-      "transfers_out_event": 5989
+      "transfers_in_event": 17900,
+      "transfers_out_event": 6057
     },
     {
       "name": "Devenny",
@@ -10878,7 +10878,7 @@
       "news": "Has joined Stoke City permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 272
+      "transfers_out_event": 275
     },
     {
       "name": "Esse",
@@ -10899,7 +10899,7 @@
       "news": "Has joined Millwall on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 956
+      "transfers_out_event": 961
     },
     {
       "name": "M.Fran?a",
@@ -10920,7 +10920,7 @@
       "news": "Has joined Alverca on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 57,
-      "transfers_out_event": 771
+      "transfers_out_event": 776
     },
     {
       "name": "Doucour?",
@@ -10940,8 +10940,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 467,
-      "transfers_out_event": 926
+      "transfers_in_event": 468,
+      "transfers_out_event": 931
     },
     {
       "name": "J.Rak-Sakyi",
@@ -11003,8 +11003,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 844,
-      "transfers_out_event": 1061
+      "transfers_in_event": 847,
+      "transfers_out_event": 1068
     },
     {
       "name": "Strand Larsen",
@@ -11024,8 +11024,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 20107,
-      "transfers_out_event": 9419
+      "transfers_in_event": 20578,
+      "transfers_out_event": 9535
     },
     {
       "name": "Mateta",
@@ -11045,8 +11045,8 @@
       "status": "i",
       "news": "Hamstring injury - Expected back 11 Oct",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 340,
-      "transfers_out_event": 71997
+      "transfers_in_event": 342,
+      "transfers_out_event": 72555
     },
     {
       "name": "Nketiah",
@@ -11066,8 +11066,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 29322,
-      "transfers_out_event": 9423
+      "transfers_in_event": 29599,
+      "transfers_out_event": 9517
     },
     {
       "name": "Uche",
@@ -11108,8 +11108,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 498,
-      "transfers_out_event": 1835
+      "transfers_in_event": 501,
+      "transfers_out_event": 1850
     },
     {
       "name": "Matthews",
@@ -11129,8 +11129,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5121,
-      "transfers_out_event": 7617
+      "transfers_in_event": 5163,
+      "transfers_out_event": 7685
     },
     {
       "name": "Tomiyasu",
@@ -11150,8 +11150,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 617,
-      "transfers_out_event": 3158
+      "transfers_in_event": 619,
+      "transfers_out_event": 3181
     },
     {
       "name": "Khalaili",
@@ -11171,8 +11171,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 21572,
-      "transfers_out_event": 5199
+      "transfers_in_event": 22003,
+      "transfers_out_event": 5266
     },
     {
       "name": "Gozo",
@@ -11192,8 +11192,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 107,
-      "transfers_out_event": 192
+      "transfers_in_event": 109,
+      "transfers_out_event": 195
     },
     {
       "name": "Ahanor",
@@ -11213,7 +11213,7 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 828,
+      "transfers_in_event": 837,
       "transfers_out_event": 177
     },
     {
@@ -11234,8 +11234,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 37757,
-      "transfers_out_event": 5514
+      "transfers_in_event": 38160,
+      "transfers_out_event": 5586
     },
     {
       "name": "Timber",
@@ -11255,8 +11255,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1737,
-      "transfers_out_event": 458
+      "transfers_in_event": 1747,
+      "transfers_out_event": 463
     },
     {
       "name": "Osorio",
@@ -11276,8 +11276,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 377,
-      "transfers_out_event": 112
+      "transfers_in_event": 378,
+      "transfers_out_event": 114
     },
     {
       "name": "N?rgaard",
@@ -11298,7 +11298,7 @@
       "news": "Groin injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 82,
-      "transfers_out_event": 1260
+      "transfers_out_event": 1270
     },
     {
       "name": "Johnson",
@@ -11318,8 +11318,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1055,
-      "transfers_out_event": 2178
+      "transfers_in_event": 1066,
+      "transfers_out_event": 2191
     },
     {
       "name": "Pickford",
@@ -11339,8 +11339,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 68494,
-      "transfers_out_event": 67936
+      "transfers_in_event": 69136,
+      "transfers_out_event": 68468
     },
     {
       "name": "Travers",
@@ -11360,8 +11360,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 403,
-      "transfers_out_event": 430
+      "transfers_in_event": 407,
+      "transfers_out_event": 434
     },
     {
       "name": "King",
@@ -11381,8 +11381,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 277,
-      "transfers_out_event": 374
+      "transfers_in_event": 278,
+      "transfers_out_event": 377
     },
     {
       "name": "Tarkowski",
@@ -11402,8 +11402,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 161080,
-      "transfers_out_event": 90270
+      "transfers_in_event": 162382,
+      "transfers_out_event": 91024
     },
     {
       "name": "Branthwaite",
@@ -11423,8 +11423,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 34831,
-      "transfers_out_event": 20614
+      "transfers_in_event": 35144,
+      "transfers_out_event": 20802
     },
     {
       "name": "Keane",
@@ -11444,8 +11444,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1252,
-      "transfers_out_event": 16447
+      "transfers_in_event": 1259,
+      "transfers_out_event": 16587
     },
     {
       "name": "O'Brien",
@@ -11465,8 +11465,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 660,
-      "transfers_out_event": 4459
+      "transfers_in_event": 662,
+      "transfers_out_event": 4495
     },
     {
       "name": "Mykolenko",
@@ -11486,8 +11486,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 68651,
-      "transfers_out_event": 36204
+      "transfers_in_event": 69611,
+      "transfers_out_event": 36584
     },
     {
       "name": "Patterson",
@@ -11508,7 +11508,7 @@
       "news": "Has joined Torino permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 734
+      "transfers_out_event": 738
     },
     {
       "name": "Aznou",
@@ -11529,7 +11529,7 @@
       "news": "Has joined Malaga on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 3045
+      "transfers_out_event": 3065
     },
     {
       "name": "Dewsbury-Hall",
@@ -11549,8 +11549,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 137579,
-      "transfers_out_event": 97671
+      "transfers_in_event": 139335,
+      "transfers_out_event": 98762
     },
     {
       "name": "Grealish",
@@ -11570,8 +11570,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 15789,
-      "transfers_out_event": 6220
+      "transfers_in_event": 15909,
+      "transfers_out_event": 6272
     },
     {
       "name": "Garner",
@@ -11591,8 +11591,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 2628,
-      "transfers_out_event": 3662
+      "transfers_in_event": 2655,
+      "transfers_out_event": 3686
     },
     {
       "name": "George",
@@ -11612,8 +11612,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 49057,
-      "transfers_out_event": 13101
+      "transfers_in_event": 49585,
+      "transfers_out_event": 13281
     },
     {
       "name": "Alcaraz",
@@ -11633,8 +11633,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 589,
-      "transfers_out_event": 1311
+      "transfers_in_event": 592,
+      "transfers_out_event": 1317
     },
     {
       "name": "Armstrong",
@@ -11654,8 +11654,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12769,
-      "transfers_out_event": 8722
+      "transfers_in_event": 12873,
+      "transfers_out_event": 8788
     },
     {
       "name": "Dibling",
@@ -11676,7 +11676,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 209,
-      "transfers_out_event": 500
+      "transfers_out_event": 502
     },
     {
       "name": "R?hl",
@@ -11696,8 +11696,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 561,
-      "transfers_out_event": 1023
+      "transfers_in_event": 565,
+      "transfers_out_event": 1033
     },
     {
       "name": "Hackney",
@@ -11717,8 +11717,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1466,
-      "transfers_out_event": 1931
+      "transfers_in_event": 1473,
+      "transfers_out_event": 1949
     },
     {
       "name": "Beto",
@@ -11739,7 +11739,7 @@
       "news": "Has joined Fiorentina permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 61372
+      "transfers_out_event": 61759
     },
     {
       "name": "Barry",
@@ -11759,8 +11759,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 267945,
-      "transfers_out_event": 116832
+      "transfers_in_event": 270829,
+      "transfers_out_event": 118409
     },
     {
       "name": "Maitland-Niles",
@@ -11780,8 +11780,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 18034,
-      "transfers_out_event": 3596
+      "transfers_in_event": 18234,
+      "transfers_out_event": 3652
     },
     {
       "name": "Graham",
@@ -11801,8 +11801,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 9391,
-      "transfers_out_event": 2030
+      "transfers_in_event": 9423,
+      "transfers_out_event": 2049
     },
     {
       "name": "Leno",
@@ -11822,8 +11822,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 19414,
-      "transfers_out_event": 34408
+      "transfers_in_event": 19607,
+      "transfers_out_event": 34717
     },
     {
       "name": "Lecomte",
@@ -11843,8 +11843,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 7918,
-      "transfers_out_event": 6954
+      "transfers_in_event": 8042,
+      "transfers_out_event": 7050
     },
     {
       "name": "McNally",
@@ -11865,7 +11865,7 @@
       "news": "Has joined York City on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1851
+      "transfers_out_event": 1862
     },
     {
       "name": "Andersen",
@@ -11885,8 +11885,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1867,
-      "transfers_out_event": 3229
+      "transfers_in_event": 1875,
+      "transfers_out_event": 3254
     },
     {
       "name": "Robinson",
@@ -11906,8 +11906,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 4620,
-      "transfers_out_event": 25682
+      "transfers_in_event": 4671,
+      "transfers_out_event": 25909
     },
     {
       "name": "J.Cuenca",
@@ -11928,7 +11928,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 103,
-      "transfers_out_event": 604
+      "transfers_out_event": 609
     },
     {
       "name": "Tete",
@@ -11948,8 +11948,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 231,
-      "transfers_out_event": 2258
+      "transfers_in_event": 235,
+      "transfers_out_event": 2280
     },
     {
       "name": "Bassey",
@@ -11969,8 +11969,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2260,
-      "transfers_out_event": 10074
+      "transfers_in_event": 2270,
+      "transfers_out_event": 10156
     },
     {
       "name": "Castagne",
@@ -11990,8 +11990,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6081,
-      "transfers_out_event": 17345
+      "transfers_in_event": 6137,
+      "transfers_out_event": 17510
     },
     {
       "name": "Iwobi",
@@ -12011,8 +12011,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2363,
-      "transfers_out_event": 16261
+      "transfers_in_event": 2378,
+      "transfers_out_event": 16402
     },
     {
       "name": "Smith Rowe",
@@ -12033,7 +12033,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 775,
-      "transfers_out_event": 4836
+      "transfers_out_event": 4871
     },
     {
       "name": "Kevin",
@@ -12054,7 +12054,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 236,
-      "transfers_out_event": 1052
+      "transfers_out_event": 1058
     },
     {
       "name": "Bobb",
@@ -12074,8 +12074,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2073,
-      "transfers_out_event": 6152
+      "transfers_in_event": 2094,
+      "transfers_out_event": 6204
     },
     {
       "name": "Berge",
@@ -12095,8 +12095,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 734,
-      "transfers_out_event": 4969
+      "transfers_in_event": 739,
+      "transfers_out_event": 5006
     },
     {
       "name": "Cairney",
@@ -12137,8 +12137,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 80252,
-      "transfers_out_event": 33826
+      "transfers_in_event": 80888,
+      "transfers_out_event": 34164
     },
     {
       "name": "Sessegnon",
@@ -12158,8 +12158,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 365,
-      "transfers_out_event": 4483
+      "transfers_in_event": 368,
+      "transfers_out_event": 4521
     },
     {
       "name": "Reed",
@@ -12179,8 +12179,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3585,
-      "transfers_out_event": 15719
+      "transfers_in_event": 3604,
+      "transfers_out_event": 15870
     },
     {
       "name": "Muniz",
@@ -12200,8 +12200,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3581,
-      "transfers_out_event": 7775
+      "transfers_in_event": 3605,
+      "transfers_out_event": 7831
     },
     {
       "name": "Kusi-Asare",
@@ -12211,7 +12211,7 @@
       "total_points": 0,
       "points_per_game": "0.0",
       "form": "0.0",
-      "selected_by_percent": "6.0",
+      "selected_by_percent": "5.9",
       "minutes": 0,
       "starts": 0,
       "goals_scored": 0,
@@ -12221,8 +12221,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 34517,
-      "transfers_out_event": 79155
+      "transfers_in_event": 34759,
+      "transfers_out_event": 79983
     },
     {
       "name": "Gonzalo",
@@ -12242,8 +12242,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 38120,
-      "transfers_out_event": 106974
+      "transfers_in_event": 38355,
+      "transfers_out_event": 107962
     },
     {
       "name": "Palacios",
@@ -12263,8 +12263,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1433,
-      "transfers_out_event": 2100
+      "transfers_in_event": 1440,
+      "transfers_out_event": 2116
     },
     {
       "name": "Charles",
@@ -12285,7 +12285,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 294,
-      "transfers_out_event": 923
+      "transfers_out_event": 926
     },
     {
       "name": "De Fougerolles",
@@ -12306,7 +12306,7 @@
       "news": "has joined  Real Salt Lake on loan for the rest of the seaon.",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 515,
-      "transfers_out_event": 1247
+      "transfers_out_event": 1256
     },
     {
       "name": "Zepa",
@@ -12326,8 +12326,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 11130,
-      "transfers_out_event": 6462
+      "transfers_in_event": 11149,
+      "transfers_out_event": 6499
     },
     {
       "name": "Larsson",
@@ -12348,7 +12348,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 263,
-      "transfers_out_event": 77
+      "transfers_out_event": 80
     },
     {
       "name": "?ngel",
@@ -12389,8 +12389,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 271,
-      "transfers_out_event": 100
+      "transfers_in_event": 272,
+      "transfers_out_event": 102
     },
     {
       "name": "Iroegbunam",
@@ -12410,7 +12410,7 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 328,
+      "transfers_in_event": 333,
       "transfers_out_event": 205
     },
     {
@@ -12431,8 +12431,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 8455,
-      "transfers_out_event": 9622
+      "transfers_in_event": 8523,
+      "transfers_out_event": 9721
     },
     {
       "name": "Butland",
@@ -12452,8 +12452,8 @@
       "status": "i",
       "news": "Arm injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 168,
-      "transfers_out_event": 828
+      "transfers_in_event": 169,
+      "transfers_out_event": 832
     },
     {
       "name": "Cartwright",
@@ -12495,7 +12495,7 @@
       "news": "Has joined Colchester United on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 201
+      "transfers_out_event": 202
     },
     {
       "name": "Egan",
@@ -12515,8 +12515,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 220651,
-      "transfers_out_event": 71605
+      "transfers_in_event": 222084,
+      "transfers_out_event": 72477
     },
     {
       "name": "Hughes",
@@ -12536,8 +12536,8 @@
       "status": "i",
       "news": "Groin injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 172,
-      "transfers_out_event": 1175
+      "transfers_in_event": 173,
+      "transfers_out_event": 1180
     },
     {
       "name": "Ajayi",
@@ -12557,8 +12557,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 345075,
-      "transfers_out_event": 77052
+      "transfers_in_event": 347628,
+      "transfers_out_event": 77819
     },
     {
       "name": "Coyle",
@@ -12578,8 +12578,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 9244,
-      "transfers_out_event": 4036
+      "transfers_in_event": 9371,
+      "transfers_out_event": 4087
     },
     {
       "name": "Drameh",
@@ -12600,7 +12600,7 @@
       "news": "Has joined Genoa permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1491
+      "transfers_out_event": 1500
     },
     {
       "name": "Giles",
@@ -12620,8 +12620,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 73230,
-      "transfers_out_event": 16423
+      "transfers_in_event": 74586,
+      "transfers_out_event": 16674
     },
     {
       "name": "Jacob",
@@ -12642,7 +12642,7 @@
       "news": "Has joined Newport County on loan until January",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 124
+      "transfers_out_event": 125
     },
     {
       "name": "McCarthy",
@@ -12662,7 +12662,7 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 967,
+      "transfers_in_event": 973,
       "transfers_out_event": 1030
     },
     {
@@ -12683,8 +12683,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 568,
-      "transfers_out_event": 1188
+      "transfers_in_event": 569,
+      "transfers_out_event": 1197
     },
     {
       "name": "Belloumi",
@@ -12704,8 +12704,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 26189,
-      "transfers_out_event": 11436
+      "transfers_in_event": 26371,
+      "transfers_out_event": 11544
     },
     {
       "name": "Millar",
@@ -12726,7 +12726,7 @@
       "news": "Has joined Birmingham on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2469
+      "transfers_out_event": 2485
     },
     {
       "name": "Dowell",
@@ -12746,8 +12746,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2694,
-      "transfers_out_event": 4854
+      "transfers_in_event": 2706,
+      "transfers_out_event": 4890
     },
     {
       "name": "Crooks",
@@ -12767,8 +12767,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 2209,
-      "transfers_out_event": 8840
+      "transfers_in_event": 2233,
+      "transfers_out_event": 8913
     },
     {
       "name": "Slater",
@@ -12788,8 +12788,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 164320,
-      "transfers_out_event": 86677
+      "transfers_in_event": 167027,
+      "transfers_out_event": 87693
     },
     {
       "name": "Matazo",
@@ -12810,7 +12810,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 115,
-      "transfers_out_event": 114
+      "transfers_out_event": 116
     },
     {
       "name": "?m?r",
@@ -12830,8 +12830,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 295,
-      "transfers_out_event": 325
+      "transfers_in_event": 296,
+      "transfers_out_event": 327
     },
     {
       "name": "Kamara",
@@ -12872,8 +12872,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1353,
-      "transfers_out_event": 1110
+      "transfers_in_event": 1363,
+      "transfers_out_event": 1115
     },
     {
       "name": "McBurnie",
@@ -12893,8 +12893,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 21963,
-      "transfers_out_event": 40086
+      "transfers_in_event": 22125,
+      "transfers_out_event": 40424
     },
     {
       "name": "Akintola",
@@ -12915,7 +12915,7 @@
       "news": "Has joined Omonoia FC permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 522,
-      "transfers_out_event": 1107
+      "transfers_out_event": 1119
     },
     {
       "name": "Gyabi",
@@ -12936,7 +12936,7 @@
       "news": "Thigh injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 118,
-      "transfers_out_event": 278
+      "transfers_out_event": 281
     },
     {
       "name": "Destan",
@@ -12957,7 +12957,7 @@
       "news": "Has joined Konyaspor permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 3719
+      "transfers_out_event": 3733
     },
     {
       "name": "Burstow",
@@ -12978,7 +12978,7 @@
       "news": "Has joined Sheffield Wednesday on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 488
+      "transfers_out_event": 494
     },
     {
       "name": "Gelhardt",
@@ -12998,8 +12998,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 183,
-      "transfers_out_event": 160
+      "transfers_in_event": 184,
+      "transfers_out_event": 161
     },
     {
       "name": "Targett",
@@ -13019,8 +13019,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5132,
-      "transfers_out_event": 18944
+      "transfers_in_event": 5189,
+      "transfers_out_event": 19100
     },
     {
       "name": "Morita",
@@ -13040,8 +13040,8 @@
       "status": "i",
       "news": "Calf injury - Expected back 11 Oct",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 139,
-      "transfers_out_event": 502
+      "transfers_in_event": 140,
+      "transfers_out_event": 507
     },
     {
       "name": "Tzolakis",
@@ -13061,8 +13061,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 235843,
-      "transfers_out_event": 66390
+      "transfers_in_event": 237480,
+      "transfers_out_event": 67038
     },
     {
       "name": "Hjert?-Dahl",
@@ -13082,8 +13082,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 435,
-      "transfers_out_event": 856
+      "transfers_in_event": 439,
+      "transfers_out_event": 862
     },
     {
       "name": "Stroud",
@@ -13103,8 +13103,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 608,
-      "transfers_out_event": 1018
+      "transfers_in_event": 615,
+      "transfers_out_event": 1025
     },
     {
       "name": "Herrington",
@@ -13124,8 +13124,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2095,
-      "transfers_out_event": 4519
+      "transfers_in_event": 2114,
+      "transfers_out_event": 4562
     },
     {
       "name": "Mendy",
@@ -13145,8 +13145,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 311539,
-      "transfers_out_event": 68769
+      "transfers_in_event": 314018,
+      "transfers_out_event": 69560
     },
     {
       "name": "Gourna-Douath",
@@ -13167,7 +13167,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 172,
-      "transfers_out_event": 280
+      "transfers_out_event": 283
     },
     {
       "name": "Cho",
@@ -13188,7 +13188,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 337,
-      "transfers_out_event": 189
+      "transfers_out_event": 191
     },
     {
       "name": "Ansah",
@@ -13208,8 +13208,8 @@
       "status": "i",
       "news": "Back injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 2670,
-      "transfers_out_event": 1534
+      "transfers_in_event": 2672,
+      "transfers_out_event": 1541
     },
     {
       "name": "Vaz",
@@ -13229,8 +13229,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3273,
-      "transfers_out_event": 887
+      "transfers_in_event": 3293,
+      "transfers_out_event": 893
     },
     {
       "name": "Norton-Cuffy",
@@ -13250,8 +13250,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 14012,
-      "transfers_out_event": 3435
+      "transfers_in_event": 14083,
+      "transfers_out_event": 3455
     },
     {
       "name": "Thomas",
@@ -13271,8 +13271,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 872,
-      "transfers_out_event": 273
+      "transfers_in_event": 879,
+      "transfers_out_event": 274
     },
     {
       "name": "Mouzakitis",
@@ -13313,8 +13313,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 38415,
-      "transfers_out_event": 140306
+      "transfers_in_event": 38898,
+      "transfers_out_event": 141971
     },
     {
       "name": "Luki?",
@@ -13334,8 +13334,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 761,
-      "transfers_out_event": 1398
+      "transfers_in_event": 764,
+      "transfers_out_event": 1405
     },
     {
       "name": "Walton",
@@ -13355,8 +13355,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 346,
-      "transfers_out_event": 2735
+      "transfers_in_event": 357,
+      "transfers_out_event": 2753
     },
     {
       "name": "Palmer",
@@ -13376,8 +13376,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 23428,
-      "transfers_out_event": 32076
+      "transfers_in_event": 23745,
+      "transfers_out_event": 32442
     },
     {
       "name": "Button",
@@ -13397,8 +13397,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 16443,
-      "transfers_out_event": 5516
+      "transfers_in_event": 16835,
+      "transfers_out_event": 5655
     },
     {
       "name": "Kipr?",
@@ -13418,8 +13418,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 582,
-      "transfers_out_event": 4059
+      "transfers_in_event": 587,
+      "transfers_out_event": 4099
     },
     {
       "name": "O'Shea",
@@ -13439,8 +13439,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 17554,
-      "transfers_out_event": 39529
+      "transfers_in_event": 17880,
+      "transfers_out_event": 40035
     },
     {
       "name": "Davis",
@@ -13460,8 +13460,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 44609,
-      "transfers_out_event": 59263
+      "transfers_in_event": 45116,
+      "transfers_out_event": 59863
     },
     {
       "name": "Greaves",
@@ -13481,8 +13481,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1953,
-      "transfers_out_event": 9448
+      "transfers_in_event": 1977,
+      "transfers_out_event": 9553
     },
     {
       "name": "Johnson",
@@ -13503,7 +13503,7 @@
       "news": "Has joined Stoke City on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2357
+      "transfers_out_event": 2369
     },
     {
       "name": "Furlong",
@@ -13523,8 +13523,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 424,
-      "transfers_out_event": 3653
+      "transfers_in_event": 427,
+      "transfers_out_event": 3688
     },
     {
       "name": "N??ez",
@@ -13544,8 +13544,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 372,
-      "transfers_out_event": 1841
+      "transfers_in_event": 377,
+      "transfers_out_event": 1854
     },
     {
       "name": "Matusiwa",
@@ -13608,7 +13608,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 176,
-      "transfers_out_event": 450
+      "transfers_out_event": 453
     },
     {
       "name": "Clarke",
@@ -13628,8 +13628,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 464,
-      "transfers_out_event": 3658
+      "transfers_in_event": 466,
+      "transfers_out_event": 3684
     },
     {
       "name": "Ogbene",
@@ -13650,7 +13650,7 @@
       "news": "Has joined Lincoln City on loan until January",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 323
+      "transfers_out_event": 325
     },
     {
       "name": "Fatawu",
@@ -13670,8 +13670,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1943,
-      "transfers_out_event": 2391
+      "transfers_in_event": 1962,
+      "transfers_out_event": 2407
     },
     {
       "name": "Emersonn",
@@ -13691,8 +13691,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 25804,
-      "transfers_out_event": 24020
+      "transfers_in_event": 25958,
+      "transfers_out_event": 24206
     },
     {
       "name": "Hirst",
@@ -13713,7 +13713,7 @@
       "news": "Has joined Stoke City permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2143
+      "transfers_out_event": 2163
     },
     {
       "name": "Philogene",
@@ -13734,7 +13734,7 @@
       "news": "",
       "chance_of_playing_next_round": 100,
       "transfers_in_event": 37,
-      "transfers_out_event": 1331
+      "transfers_out_event": 1338
     },
     {
       "name": "Szmodics",
@@ -13775,8 +13775,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 36019,
-      "transfers_out_event": 19082
+      "transfers_in_event": 36250,
+      "transfers_out_event": 19234
     },
     {
       "name": "Walle Egeli",
@@ -13796,8 +13796,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 80499,
-      "transfers_out_event": 56433
+      "transfers_in_event": 81273,
+      "transfers_out_event": 56931
     },
     {
       "name": "Al-Hamadi",
@@ -13818,7 +13818,7 @@
       "news": "Has joined Sheffield Wednesday on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1657
+      "transfers_out_event": 1670
     },
     {
       "name": "McAteer",
@@ -13838,8 +13838,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 7055,
-      "transfers_out_event": 14035
+      "transfers_in_event": 7083,
+      "transfers_out_event": 14165
     },
     {
       "name": "Mehmeti",
@@ -13860,7 +13860,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 90,
-      "transfers_out_event": 540
+      "transfers_out_event": 543
     },
     {
       "name": "Van Oevelen",
@@ -13881,7 +13881,7 @@
       "news": "Has joined Valencia on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 298
+      "transfers_out_event": 300
     },
     {
       "name": "Maeda",
@@ -13901,8 +13901,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 851,
-      "transfers_out_event": 4451
+      "transfers_in_event": 859,
+      "transfers_out_event": 4490
     },
     {
       "name": "Scherpen",
@@ -13922,8 +13922,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5829,
-      "transfers_out_event": 5395
+      "transfers_in_event": 5886,
+      "transfers_out_event": 5506
     },
     {
       "name": "Florentino",
@@ -13943,8 +13943,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 323,
-      "transfers_out_event": 1213
+      "transfers_in_event": 324,
+      "transfers_out_event": 1221
     },
     {
       "name": "Enciso",
@@ -13964,8 +13964,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 27992,
-      "transfers_out_event": 15297
+      "transfers_in_event": 28290,
+      "transfers_out_event": 15420
     },
     {
       "name": "Ouattara",
@@ -13985,8 +13985,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2989,
-      "transfers_out_event": 5505
+      "transfers_in_event": 3019,
+      "transfers_out_event": 5561
     },
     {
       "name": "Humphreys",
@@ -14007,7 +14007,7 @@
       "news": "Has joined Huddersfield Town on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 959
+      "transfers_out_event": 963
     },
     {
       "name": "Palacios",
@@ -14027,8 +14027,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2284,
-      "transfers_out_event": 891
+      "transfers_in_event": 2301,
+      "transfers_out_event": 904
     },
     {
       "name": "Flemming",
@@ -14048,8 +14048,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2489,
-      "transfers_out_event": 682
+      "transfers_in_event": 2512,
+      "transfers_out_event": 686
     },
     {
       "name": "Wilson",
@@ -14069,8 +14069,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3229,
-      "transfers_out_event": 122823
+      "transfers_in_event": 3242,
+      "transfers_out_event": 123931
     },
     {
       "name": "Perri",
@@ -14091,7 +14091,7 @@
       "news": "Has joined Torino on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 6866
+      "transfers_out_event": 6891
     },
     {
       "name": "Bijol",
@@ -14111,8 +14111,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 4305,
-      "transfers_out_event": 14665
+      "transfers_in_event": 4336,
+      "transfers_out_event": 14755
     },
     {
       "name": "Rodon",
@@ -14132,8 +14132,8 @@
       "status": "i",
       "news": "Hamstring injury - Expected back 21 Nov",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 165,
-      "transfers_out_event": 109045
+      "transfers_in_event": 166,
+      "transfers_out_event": 110877
     },
     {
       "name": "Bogle",
@@ -14143,7 +14143,7 @@
       "total_points": 22,
       "points_per_game": "7.3",
       "form": "7.3",
-      "selected_by_percent": "2.1",
+      "selected_by_percent": "2.2",
       "minutes": 217,
       "starts": 3,
       "goals_scored": 1,
@@ -14153,8 +14153,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 119585,
-      "transfers_out_event": 23265
+      "transfers_in_event": 120770,
+      "transfers_out_event": 23606
     },
     {
       "name": "Gudmundsson",
@@ -14174,8 +14174,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1130,
-      "transfers_out_event": 518
+      "transfers_in_event": 1135,
+      "transfers_out_event": 523
     },
     {
       "name": "Justin",
@@ -14195,8 +14195,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 26733,
-      "transfers_out_event": 21579
+      "transfers_in_event": 27173,
+      "transfers_out_event": 21829
     },
     {
       "name": "Bornauw",
@@ -14237,8 +14237,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 129615,
-      "transfers_out_event": 66503
+      "transfers_in_event": 132133,
+      "transfers_out_event": 67436
     },
     {
       "name": "Stach",
@@ -14258,8 +14258,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 29151,
-      "transfers_out_event": 48341
+      "transfers_in_event": 29440,
+      "transfers_out_event": 48743
     },
     {
       "name": "Okafor",
@@ -14279,8 +14279,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2020,
-      "transfers_out_event": 6517
+      "transfers_in_event": 2041,
+      "transfers_out_event": 6601
     },
     {
       "name": "Aaronson",
@@ -14300,8 +14300,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1075,
-      "transfers_out_event": 11187
+      "transfers_in_event": 1087,
+      "transfers_out_event": 11295
     },
     {
       "name": "Ampadu",
@@ -14321,8 +14321,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2497,
-      "transfers_out_event": 16759
+      "transfers_in_event": 2511,
+      "transfers_out_event": 16903
     },
     {
       "name": "Longstaff",
@@ -14342,8 +14342,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 686,
-      "transfers_out_event": 1781
+      "transfers_in_event": 690,
+      "transfers_out_event": 1793
     },
     {
       "name": "Gnonto",
@@ -14364,7 +14364,7 @@
       "news": "Has joined ACF Fiorentina on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 429
+      "transfers_out_event": 434
     },
     {
       "name": "Harrison",
@@ -14405,8 +14405,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 778,
-      "transfers_out_event": 1973
+      "transfers_in_event": 779,
+      "transfers_out_event": 1982
     },
     {
       "name": "Gruev",
@@ -14447,8 +14447,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5683,
-      "transfers_out_event": 3114
+      "transfers_in_event": 5713,
+      "transfers_out_event": 3152
     },
     {
       "name": "Calvert-Lewin",
@@ -14468,8 +14468,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 98645,
-      "transfers_out_event": 466076
+      "transfers_in_event": 99508,
+      "transfers_out_event": 471839
     },
     {
       "name": "Nmecha",
@@ -14489,8 +14489,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6521,
-      "transfers_out_event": 7555
+      "transfers_in_event": 6576,
+      "transfers_out_event": 7620
     },
     {
       "name": "Piroe",
@@ -14511,7 +14511,7 @@
       "news": "Has joined West Ham United on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1502
+      "transfers_out_event": 1509
     },
     {
       "name": "Mateo Joseph",
@@ -14531,8 +14531,8 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 771,
-      "transfers_out_event": 1018
+      "transfers_in_event": 772,
+      "transfers_out_event": 1025
     },
     {
       "name": "Trafford",
@@ -14552,8 +14552,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 63218,
-      "transfers_out_event": 48249
+      "transfers_in_event": 63757,
+      "transfers_out_event": 48678
     },
     {
       "name": "Elvedi",
@@ -14573,8 +14573,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2719,
-      "transfers_out_event": 1252
+      "transfers_in_event": 2745,
+      "transfers_out_event": 1266
     },
     {
       "name": "Lienou",
@@ -14594,8 +14594,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1402,
-      "transfers_out_event": 1030
+      "transfers_in_event": 1414,
+      "transfers_out_event": 1032
     },
     {
       "name": "Cresswell",
@@ -14615,8 +14615,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3414,
-      "transfers_out_event": 2168
+      "transfers_in_event": 3427,
+      "transfers_out_event": 2179
     },
     {
       "name": "Cairns",
@@ -14636,8 +14636,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5951,
-      "transfers_out_event": 2241
+      "transfers_in_event": 6000,
+      "transfers_out_event": 2265
     },
     {
       "name": "Zetterer",
@@ -14657,8 +14657,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 22847,
-      "transfers_out_event": 4967
+      "transfers_in_event": 23034,
+      "transfers_out_event": 5035
     },
     {
       "name": "Bard",
@@ -14678,8 +14678,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 318,
-      "transfers_out_event": 102
+      "transfers_in_event": 321,
+      "transfers_out_event": 104
     },
     {
       "name": "Bahoya",
@@ -14699,8 +14699,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 744,
-      "transfers_out_event": 358
+      "transfers_in_event": 749,
+      "transfers_out_event": 361
     },
     {
       "name": "A.Becker",
@@ -14720,8 +14720,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 44530,
-      "transfers_out_event": 29342
+      "transfers_in_event": 45002,
+      "transfers_out_event": 29615
     },
     {
       "name": "Mamardashvili",
@@ -14741,8 +14741,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 511,
-      "transfers_out_event": 1838
+      "transfers_in_event": 512,
+      "transfers_out_event": 1850
     },
     {
       "name": "Woodman",
@@ -14762,8 +14762,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3471,
-      "transfers_out_event": 6848
+      "transfers_in_event": 3493,
+      "transfers_out_event": 6894
     },
     {
       "name": "Pecsi",
@@ -14784,7 +14784,7 @@
       "news": "Has joined TSV Hartberg on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 183
+      "transfers_out_event": 186
     },
     {
       "name": "Jaros",
@@ -14804,8 +14804,8 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 550,
-      "transfers_out_event": 392
+      "transfers_in_event": 555,
+      "transfers_out_event": 401
     },
     {
       "name": "Davies",
@@ -14825,8 +14825,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1174,
-      "transfers_out_event": 1106
+      "transfers_in_event": 1185,
+      "transfers_out_event": 1119
     },
     {
       "name": "Virgil",
@@ -14846,8 +14846,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 78708,
-      "transfers_out_event": 126037
+      "transfers_in_event": 79276,
+      "transfers_out_event": 127083
     },
     {
       "name": "Frimpong",
@@ -14867,8 +14867,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 4659,
-      "transfers_out_event": 85413
+      "transfers_in_event": 4699,
+      "transfers_out_event": 86038
     },
     {
       "name": "Kerkez",
@@ -14888,8 +14888,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12118,
-      "transfers_out_event": 33915
+      "transfers_in_event": 12232,
+      "transfers_out_event": 34203
     },
     {
       "name": "Gomez",
@@ -14931,7 +14931,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 67,
-      "transfers_out_event": 160
+      "transfers_out_event": 161
     },
     {
       "name": "Lucky",
@@ -14951,8 +14951,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 822,
-      "transfers_out_event": 1460
+      "transfers_in_event": 826,
+      "transfers_out_event": 1468
     },
     {
       "name": "Jacquet",
@@ -14972,8 +14972,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 47749,
-      "transfers_out_event": 31878
+      "transfers_in_event": 48164,
+      "transfers_out_event": 32114
     },
     {
       "name": "Leoni",
@@ -14993,8 +14993,8 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 159,
-      "transfers_out_event": 448
+      "transfers_in_event": 161,
+      "transfers_out_event": 451
     },
     {
       "name": "Tsimikas",
@@ -15014,8 +15014,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 353,
-      "transfers_out_event": 1289
+      "transfers_in_event": 357,
+      "transfers_out_event": 1296
     },
     {
       "name": "Ramsay",
@@ -15036,7 +15036,7 @@
       "news": "Has joined St Mirren on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2051
+      "transfers_out_event": 2060
     },
     {
       "name": "Wirtz",
@@ -15056,8 +15056,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 29232,
-      "transfers_out_event": 226756
+      "transfers_in_event": 29853,
+      "transfers_out_event": 228465
     },
     {
       "name": "Gakpo",
@@ -15077,8 +15077,8 @@
       "status": "d",
       "news": "Thigh injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 666386,
-      "transfers_out_event": 302398
+      "transfers_in_event": 668186,
+      "transfers_out_event": 307093
     },
     {
       "name": "Szoboszlai",
@@ -15098,8 +15098,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 263515,
-      "transfers_out_event": 509253
+      "transfers_in_event": 268656,
+      "transfers_out_event": 513072
     },
     {
       "name": "Ngumoha",
@@ -15119,8 +15119,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2923,
-      "transfers_out_event": 23141
+      "transfers_in_event": 2967,
+      "transfers_out_event": 23269
     },
     {
       "name": "Chiesa",
@@ -15141,7 +15141,7 @@
       "news": "Back injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 14,
-      "transfers_out_event": 1365
+      "transfers_out_event": 1373
     },
     {
       "name": "Gravenberch",
@@ -15161,8 +15161,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5091,
-      "transfers_out_event": 37879
+      "transfers_in_event": 5120,
+      "transfers_out_event": 38102
     },
     {
       "name": "Mac Allister",
@@ -15182,8 +15182,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12748,
-      "transfers_out_event": 20581
+      "transfers_in_event": 12877,
+      "transfers_out_event": 20708
     },
     {
       "name": "C.Jones",
@@ -15204,7 +15204,7 @@
       "news": "Has joined Internazionale permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 368
+      "transfers_out_event": 372
     },
     {
       "name": "Endo",
@@ -15224,8 +15224,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 528,
-      "transfers_out_event": 1088
+      "transfers_in_event": 530,
+      "transfers_out_event": 1091
     },
     {
       "name": "Nyoni",
@@ -15245,8 +15245,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 421,
-      "transfers_out_event": 702
+      "transfers_in_event": 422,
+      "transfers_out_event": 710
     },
     {
       "name": "Bajcetic",
@@ -15287,8 +15287,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 20113,
-      "transfers_out_event": 30120
+      "transfers_in_event": 20373,
+      "transfers_out_event": 30381
     },
     {
       "name": "McConnell",
@@ -15308,8 +15308,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 867,
-      "transfers_out_event": 2574
+      "transfers_in_event": 868,
+      "transfers_out_event": 2591
     },
     {
       "name": "Isak",
@@ -15329,8 +15329,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 717440,
-      "transfers_out_event": 106185
+      "transfers_in_event": 725032,
+      "transfers_out_event": 107572
     },
     {
       "name": "Ekitik?",
@@ -15351,7 +15351,7 @@
       "news": "Achilles injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 473,
-      "transfers_out_event": 2034
+      "transfers_out_event": 2038
     },
     {
       "name": "Koumas",
@@ -15371,8 +15371,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 151,
-      "transfers_out_event": 316
+      "transfers_in_event": 155,
+      "transfers_out_event": 318
     },
     {
       "name": "Danns",
@@ -15392,8 +15392,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 6942,
-      "transfers_out_event": 2402
+      "transfers_in_event": 6978,
+      "transfers_out_event": 2421
     },
     {
       "name": "Elliott",
@@ -15414,7 +15414,7 @@
       "news": "Has joined Valencia on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1659
+      "transfers_out_event": 1665
     },
     {
       "name": "Araujo",
@@ -15434,8 +15434,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 58567,
-      "transfers_out_event": 17614
+      "transfers_in_event": 59247,
+      "transfers_out_event": 17747
     },
     {
       "name": "Barcola",
@@ -15455,8 +15455,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 114212,
-      "transfers_out_event": 44983
+      "transfers_in_event": 115460,
+      "transfers_out_event": 45408
     },
     {
       "name": "Enzo",
@@ -15476,8 +15476,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 38651,
-      "transfers_out_event": 51132
+      "transfers_in_event": 38935,
+      "transfers_out_event": 51562
     },
     {
       "name": "Ndiaye",
@@ -15487,7 +15487,7 @@
       "total_points": 16,
       "points_per_game": "5.3",
       "form": "5.3",
-      "selected_by_percent": "8.5",
+      "selected_by_percent": "8.4",
       "minutes": 266,
       "starts": 3,
       "goals_scored": 0,
@@ -15497,8 +15497,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 42560,
-      "transfers_out_event": 335738
+      "transfers_in_event": 42783,
+      "transfers_out_event": 339699
     },
     {
       "name": "Donnarumma",
@@ -15518,8 +15518,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 31885,
-      "transfers_out_event": 77250
+      "transfers_in_event": 32058,
+      "transfers_out_event": 77914
     },
     {
       "name": "Bettinelli",
@@ -15539,7 +15539,7 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 124,
+      "transfers_in_event": 125,
       "transfers_out_event": 241
     },
     {
@@ -15550,7 +15550,7 @@
       "total_points": 4,
       "points_per_game": "2.0",
       "form": "1.3",
-      "selected_by_percent": "13.0",
+      "selected_by_percent": "12.9",
       "minutes": 150,
       "starts": 2,
       "goals_scored": 0,
@@ -15560,8 +15560,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 8295,
-      "transfers_out_event": 541683
+      "transfers_in_event": 8409,
+      "transfers_out_event": 544485
     },
     {
       "name": "Gu?hi",
@@ -15581,8 +15581,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 89469,
-      "transfers_out_event": 113649
+      "transfers_in_event": 89897,
+      "transfers_out_event": 114620
     },
     {
       "name": "Matheus N.",
@@ -15602,8 +15602,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 2382,
-      "transfers_out_event": 10837
+      "transfers_in_event": 2393,
+      "transfers_out_event": 10922
     },
     {
       "name": "R?ben",
@@ -15623,8 +15623,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 10918,
-      "transfers_out_event": 17277
+      "transfers_in_event": 10972,
+      "transfers_out_event": 17415
     },
     {
       "name": "Gvardiol",
@@ -15644,8 +15644,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 311799,
-      "transfers_out_event": 159427
+      "transfers_in_event": 313786,
+      "transfers_out_event": 161099
     },
     {
       "name": "A?t-Nouri",
@@ -15665,8 +15665,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1335,
-      "transfers_out_event": 11146
+      "transfers_in_event": 1348,
+      "transfers_out_event": 11244
     },
     {
       "name": "Khusanov",
@@ -15686,8 +15686,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6062,
-      "transfers_out_event": 13952
+      "transfers_in_event": 6091,
+      "transfers_out_event": 14076
     },
     {
       "name": "Alleyne",
@@ -15728,8 +15728,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1021,
-      "transfers_out_event": 4031
+      "transfers_in_event": 1029,
+      "transfers_out_event": 4053
     },
     {
       "name": "Vitor Reis",
@@ -15750,7 +15750,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 90,
-      "transfers_out_event": 281
+      "transfers_out_event": 282
     },
     {
       "name": "Semenyo",
@@ -15760,7 +15760,7 @@
       "total_points": 13,
       "points_per_game": "4.3",
       "form": "4.3",
-      "selected_by_percent": "15.9",
+      "selected_by_percent": "15.8",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 0,
@@ -15770,8 +15770,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 35367,
-      "transfers_out_event": 351956
+      "transfers_in_event": 35575,
+      "transfers_out_event": 356773
     },
     {
       "name": "Foden",
@@ -15781,7 +15781,7 @@
       "total_points": 11,
       "points_per_game": "3.7",
       "form": "3.7",
-      "selected_by_percent": "3.8",
+      "selected_by_percent": "3.7",
       "minutes": 195,
       "starts": 2,
       "goals_scored": 0,
@@ -15791,8 +15791,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 18009,
-      "transfers_out_event": 204601
+      "transfers_in_event": 18143,
+      "transfers_out_event": 206994
     },
     {
       "name": "Cherki",
@@ -15802,7 +15802,7 @@
       "total_points": 25,
       "points_per_game": "8.3",
       "form": "8.3",
-      "selected_by_percent": "28.8",
+      "selected_by_percent": "28.7",
       "minutes": 173,
       "starts": 2,
       "goals_scored": 2,
@@ -15812,8 +15812,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 310936,
-      "transfers_out_event": 441447
+      "transfers_in_event": 313007,
+      "transfers_out_event": 447686
     },
     {
       "name": "Doku",
@@ -15834,7 +15834,7 @@
       "news": "Calf injury - Expected back 20 Sep",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 249,
-      "transfers_out_event": 14582
+      "transfers_out_event": 14658
     },
     {
       "name": "Rodrigo",
@@ -15876,7 +15876,7 @@
       "news": "Has joined Al Qadsiah permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 535
+      "transfers_out_event": 539
     },
     {
       "name": "Kova?i?",
@@ -15896,8 +15896,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 420,
-      "transfers_out_event": 1414
+      "transfers_in_event": 421,
+      "transfers_out_event": 1417
     },
     {
       "name": "Echeverri",
@@ -15960,7 +15960,7 @@
       "news": "has joined West Ham on loan for the rest of the seaon.",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 3379
+      "transfers_out_event": 3393
     },
     {
       "name": "Monga",
@@ -15981,7 +15981,7 @@
       "news": "Has joined Swansea City on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 360
+      "transfers_out_event": 363
     },
     {
       "name": "Haaland",
@@ -16001,8 +16001,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 174248,
-      "transfers_out_event": 130121
+      "transfers_in_event": 176130,
+      "transfers_out_event": 131515
     },
     {
       "name": "Anderson",
@@ -16022,8 +16022,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 16234,
-      "transfers_out_event": 91484
+      "transfers_in_event": 16310,
+      "transfers_out_event": 92365
     },
     {
       "name": "Rulli",
@@ -16064,8 +16064,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 4835,
-      "transfers_out_event": 3940
+      "transfers_in_event": 4862,
+      "transfers_out_event": 3952
     },
     {
       "name": "McAidoo",
@@ -16085,8 +16085,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3550,
-      "transfers_out_event": 2209
+      "transfers_in_event": 3564,
+      "transfers_out_event": 2219
     },
     {
       "name": "Braithwaite",
@@ -16106,8 +16106,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 4581,
-      "transfers_out_event": 2699
+      "transfers_in_event": 4598,
+      "transfers_out_event": 2711
     },
     {
       "name": "Allan",
@@ -16127,8 +16127,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 305,
-      "transfers_out_event": 191
+      "transfers_in_event": 307,
+      "transfers_out_event": 192
     },
     {
       "name": "Samba",
@@ -16148,8 +16148,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2887,
-      "transfers_out_event": 800
+      "transfers_in_event": 2891,
+      "transfers_out_event": 805
     },
     {
       "name": "Tielemans",
@@ -16169,8 +16169,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 7799,
-      "transfers_out_event": 37759
+      "transfers_in_event": 7844,
+      "transfers_out_event": 38018
     },
     {
       "name": "Baleba",
@@ -16190,8 +16190,8 @@
       "status": "i",
       "news": "Ankle injury - Expected back 19 Sep",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 778,
-      "transfers_out_event": 2503
+      "transfers_in_event": 782,
+      "transfers_out_event": 2518
     },
     {
       "name": "Andrey Santos",
@@ -16211,8 +16211,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3503,
-      "transfers_out_event": 16489
+      "transfers_in_event": 3519,
+      "transfers_out_event": 16602
     },
     {
       "name": "Darlow",
@@ -16243,7 +16243,7 @@
       "total_points": 5,
       "points_per_game": "1.7",
       "form": "1.7",
-      "selected_by_percent": "11.1",
+      "selected_by_percent": "11.0",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 0,
@@ -16253,8 +16253,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 11261,
-      "transfers_out_event": 234633
+      "transfers_in_event": 11332,
+      "transfers_out_event": 236886
     },
     {
       "name": "Bayindir",
@@ -16295,8 +16295,8 @@
       "status": "i",
       "news": "Hamstring injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 682,
-      "transfers_out_event": 798
+      "transfers_in_event": 691,
+      "transfers_out_event": 810
     },
     {
       "name": "Dorgu",
@@ -16316,8 +16316,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2125,
-      "transfers_out_event": 18787
+      "transfers_in_event": 2142,
+      "transfers_out_event": 18923
     },
     {
       "name": "De Ligt",
@@ -16338,7 +16338,7 @@
       "news": "Back injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 87,
-      "transfers_out_event": 263
+      "transfers_out_event": 264
     },
     {
       "name": "Dalot",
@@ -16358,8 +16358,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3836,
-      "transfers_out_event": 35380
+      "transfers_in_event": 3859,
+      "transfers_out_event": 35735
     },
     {
       "name": "Maguire",
@@ -16369,7 +16369,7 @@
       "total_points": 7,
       "points_per_game": "2.3",
       "form": "2.3",
-      "selected_by_percent": "10.3",
+      "selected_by_percent": "10.2",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 0,
@@ -16379,8 +16379,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 17102,
-      "transfers_out_event": 366058
+      "transfers_in_event": 17196,
+      "transfers_out_event": 371007
     },
     {
       "name": "Martinez",
@@ -16400,8 +16400,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 7358,
-      "transfers_out_event": 13244
+      "transfers_in_event": 7415,
+      "transfers_out_event": 13350
     },
     {
       "name": "Yoro",
@@ -16421,8 +16421,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 888,
-      "transfers_out_event": 6881
+      "transfers_in_event": 893,
+      "transfers_out_event": 6924
     },
     {
       "name": "Heaven",
@@ -16442,8 +16442,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 759,
-      "transfers_out_event": 5708
+      "transfers_in_event": 765,
+      "transfers_out_event": 5752
     },
     {
       "name": "Mazraoui",
@@ -16463,8 +16463,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2064,
-      "transfers_out_event": 10913
+      "transfers_in_event": 2084,
+      "transfers_out_event": 10984
     },
     {
       "name": "Shaw",
@@ -16484,8 +16484,8 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 21704,
-      "transfers_out_event": 406672
+      "transfers_in_event": 21772,
+      "transfers_out_event": 412439
     },
     {
       "name": "Amass",
@@ -16505,8 +16505,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1658,
-      "transfers_out_event": 1960
+      "transfers_in_event": 1671,
+      "transfers_out_event": 1972
     },
     {
       "name": "Fredricson",
@@ -16537,7 +16537,7 @@
       "total_points": 27,
       "points_per_game": "9.0",
       "form": "9.0",
-      "selected_by_percent": "41.9",
+      "selected_by_percent": "41.7",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 3,
@@ -16547,8 +16547,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 121286,
-      "transfers_out_event": 714594
+      "transfers_in_event": 122213,
+      "transfers_out_event": 726454
     },
     {
       "name": "Mbeumo",
@@ -16558,7 +16558,7 @@
       "total_points": 21,
       "points_per_game": "7.0",
       "form": "7.0",
-      "selected_by_percent": "23.1",
+      "selected_by_percent": "23.0",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 2,
@@ -16568,8 +16568,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 153337,
-      "transfers_out_event": 504356
+      "transfers_in_event": 154873,
+      "transfers_out_event": 511661
     },
     {
       "name": "Cunha",
@@ -16589,8 +16589,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 11533,
-      "transfers_out_event": 147936
+      "transfers_in_event": 11649,
+      "transfers_out_event": 149191
     },
     {
       "name": "Rashford",
@@ -16610,8 +16610,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 24339,
-      "transfers_out_event": 27828
+      "transfers_in_event": 24569,
+      "transfers_out_event": 28054
     },
     {
       "name": "Mount",
@@ -16631,8 +16631,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 269,
-      "transfers_out_event": 214
+      "transfers_in_event": 271,
+      "transfers_out_event": 217
     },
     {
       "name": "Amad",
@@ -16653,7 +16653,7 @@
       "news": "Unspecified injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 148,
-      "transfers_out_event": 13348
+      "transfers_out_event": 13470
     },
     {
       "name": "Mainoo",
@@ -16673,8 +16673,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 29780,
-      "transfers_out_event": 11998
+      "transfers_in_event": 30000,
+      "transfers_out_event": 12093
     },
     {
       "name": "Ugarte",
@@ -16694,8 +16694,8 @@
       "status": "i",
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
-      "transfers_in_event": 24,
-      "transfers_out_event": 46
+      "transfers_in_event": 25,
+      "transfers_out_event": 47
     },
     {
       "name": "J.Fletcher",
@@ -16715,7 +16715,7 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 100,
+      "transfers_in_event": 101,
       "transfers_out_event": 167
     },
     {
@@ -16736,8 +16736,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 193,
-      "transfers_out_event": 762
+      "transfers_in_event": 197,
+      "transfers_out_event": 767
     },
     {
       "name": "Collyer",
@@ -16758,7 +16758,7 @@
       "news": "Has joined West Brom permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 255
+      "transfers_out_event": 256
     },
     {
       "name": "Bendito Mantato",
@@ -16778,8 +16778,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1311,
-      "transfers_out_event": 1982
+      "transfers_in_event": 1314,
+      "transfers_out_event": 1992
     },
     {
       "name": "Fletcher",
@@ -16799,8 +16799,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1311,
-      "transfers_out_event": 3140
+      "transfers_in_event": 1316,
+      "transfers_out_event": 3154
     },
     {
       "name": "?e?ko",
@@ -16820,8 +16820,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 26021,
-      "transfers_out_event": 22506
+      "transfers_in_event": 26198,
+      "transfers_out_event": 22616
     },
     {
       "name": "Zirkzee",
@@ -16841,8 +16841,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3589,
-      "transfers_out_event": 8377
+      "transfers_in_event": 3600,
+      "transfers_out_event": 8423
     },
     {
       "name": "Obi",
@@ -16862,8 +16862,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 14902,
-      "transfers_out_event": 14124
+      "transfers_in_event": 14981,
+      "transfers_out_event": 14201
     },
     {
       "name": "N.Gonzalez",
@@ -16883,8 +16883,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3794,
-      "transfers_out_event": 3580
+      "transfers_in_event": 3819,
+      "transfers_out_event": 3602
     },
     {
       "name": "Pope",
@@ -16904,8 +16904,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2980,
-      "transfers_out_event": 11861
+      "transfers_in_event": 2993,
+      "transfers_out_event": 11921
     },
     {
       "name": "Gillespie",
@@ -16926,7 +16926,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 140,
-      "transfers_out_event": 287
+      "transfers_out_event": 289
     },
     {
       "name": "Jaouen",
@@ -16947,7 +16947,7 @@
       "news": "Ankle injury - 50% chance of playing",
       "chance_of_playing_next_round": 50,
       "transfers_in_event": 97,
-      "transfers_out_event": 333
+      "transfers_out_event": 336
     },
     {
       "name": "Thiaw",
@@ -16967,8 +16967,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 46835,
-      "transfers_out_event": 44515
+      "transfers_in_event": 47501,
+      "transfers_out_event": 44925
     },
     {
       "name": "Sch?r",
@@ -16988,8 +16988,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1418,
-      "transfers_out_event": 3630
+      "transfers_in_event": 1431,
+      "transfers_out_event": 3642
     },
     {
       "name": "Botman",
@@ -17009,8 +17009,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 9773,
-      "transfers_out_event": 8638
+      "transfers_in_event": 9871,
+      "transfers_out_event": 8708
     },
     {
       "name": "Burn",
@@ -17031,7 +17031,7 @@
       "news": "Ankle injury - Expected back 14 Sep",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 239,
-      "transfers_out_event": 20317
+      "transfers_out_event": 20448
     },
     {
       "name": "Hall",
@@ -17041,7 +17041,7 @@
       "total_points": 18,
       "points_per_game": "6.0",
       "form": "6.0",
-      "selected_by_percent": "14.0",
+      "selected_by_percent": "14.1",
       "minutes": 269,
       "starts": 3,
       "goals_scored": 0,
@@ -17051,8 +17051,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 551915,
-      "transfers_out_event": 112553
+      "transfers_in_event": 557855,
+      "transfers_out_event": 114002
     },
     {
       "name": "Livramento",
@@ -17072,8 +17072,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 3437,
-      "transfers_out_event": 1015
+      "transfers_in_event": 3463,
+      "transfers_out_event": 1027
     },
     {
       "name": "A.Murphy",
@@ -17094,7 +17094,7 @@
       "news": "Has joined FC Kaiserslautern on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 950
+      "transfers_out_event": 952
     },
     {
       "name": "Barnes",
@@ -17114,8 +17114,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 204693,
-      "transfers_out_event": 56351
+      "transfers_in_event": 207454,
+      "transfers_out_event": 57068
     },
     {
       "name": "Elanga",
@@ -17135,8 +17135,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 321121,
-      "transfers_out_event": 191271
+      "transfers_in_event": 323638,
+      "transfers_out_event": 193273
     },
     {
       "name": "J.Ramsey",
@@ -17156,8 +17156,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 11361,
-      "transfers_out_event": 4903
+      "transfers_in_event": 11435,
+      "transfers_out_event": 4932
     },
     {
       "name": "J.Murphy",
@@ -17177,8 +17177,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1057,
-      "transfers_out_event": 2132
+      "transfers_in_event": 1060,
+      "transfers_out_event": 2149
     },
     {
       "name": "Joelinton",
@@ -17219,8 +17219,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 1034,
-      "transfers_out_event": 1551
+      "transfers_in_event": 1038,
+      "transfers_out_event": 1562
     },
     {
       "name": "Willock",
@@ -17240,8 +17240,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 16251,
-      "transfers_out_event": 9732
+      "transfers_in_event": 16392,
+      "transfers_out_event": 9821
     },
     {
       "name": "Tour?",
@@ -17261,8 +17261,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 371,
-      "transfers_out_event": 3370
+      "transfers_in_event": 376,
+      "transfers_out_event": 3384
     },
     {
       "name": "Steur",
@@ -17282,8 +17282,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 388,
-      "transfers_out_event": 1440
+      "transfers_in_event": 389,
+      "transfers_out_event": 1446
     },
     {
       "name": "Woltemade",
@@ -17304,7 +17304,7 @@
       "news": "Has joined Juventus on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 39069
+      "transfers_out_event": 39234
     },
     {
       "name": "Wissa",
@@ -17324,8 +17324,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 568168,
-      "transfers_out_event": 252764
+      "transfers_in_event": 573424,
+      "transfers_out_event": 255886
     },
     {
       "name": "Osula",
@@ -17346,7 +17346,7 @@
       "news": "Foot injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 233,
-      "transfers_out_event": 12749
+      "transfers_out_event": 12814
     },
     {
       "name": "Neave",
@@ -17367,7 +17367,7 @@
       "news": "Has joined Wolves on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 17697
+      "transfers_out_event": 17768
     },
     {
       "name": "Bamba",
@@ -17387,8 +17387,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 531,
-      "transfers_out_event": 1616
+      "transfers_in_event": 535,
+      "transfers_out_event": 1627
     },
     {
       "name": "Horn??ek",
@@ -17408,8 +17408,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 56817,
-      "transfers_out_event": 27985
+      "transfers_in_event": 57474,
+      "transfers_out_event": 28300
     },
     {
       "name": "Dedi?",
@@ -17419,7 +17419,7 @@
       "total_points": 13,
       "points_per_game": "4.3",
       "form": "4.3",
-      "selected_by_percent": "3.0",
+      "selected_by_percent": "2.9",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 0,
@@ -17429,8 +17429,8 @@
       "status": "d",
       "news": "Hamstring injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 106769,
-      "transfers_out_event": 112935
+      "transfers_in_event": 107130,
+      "transfers_out_event": 114040
     },
     {
       "name": "Shahar",
@@ -17451,7 +17451,7 @@
       "news": "has joined Arouca on loan for the rest of the seaon.",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 3372,
-      "transfers_out_event": 4326
+      "transfers_out_event": 4370
     },
     {
       "name": "Fernandez-Pardo",
@@ -17471,8 +17471,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6070,
-      "transfers_out_event": 1925
+      "transfers_in_event": 6094,
+      "transfers_out_event": 1935
     },
     {
       "name": "Delap",
@@ -17492,8 +17492,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 19837,
-      "transfers_out_event": 12274
+      "transfers_in_event": 19982,
+      "transfers_out_event": 12346
     },
     {
       "name": "Mu?oz",
@@ -17513,8 +17513,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 11029,
-      "transfers_out_event": 93177
+      "transfers_in_event": 11125,
+      "transfers_out_event": 94000
     },
     {
       "name": "Sels",
@@ -17534,8 +17534,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 14784,
-      "transfers_out_event": 12609
+      "transfers_in_event": 14962,
+      "transfers_out_event": 12763
     },
     {
       "name": "John",
@@ -17555,8 +17555,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 169,
-      "transfers_out_event": 408
+      "transfers_in_event": 170,
+      "transfers_out_event": 409
     },
     {
       "name": "N.Williams",
@@ -17576,8 +17576,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 90114,
-      "transfers_out_event": 82615
+      "transfers_in_event": 90990,
+      "transfers_out_event": 83567
     },
     {
       "name": "Morato",
@@ -17598,7 +17598,7 @@
       "news": "Has joined West Ham on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1116
+      "transfers_out_event": 1119
     },
     {
       "name": "Milenkovi?",
@@ -17618,8 +17618,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 9314,
-      "transfers_out_event": 9636
+      "transfers_in_event": 9400,
+      "transfers_out_event": 9726
     },
     {
       "name": "Murillo",
@@ -17639,8 +17639,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 15516,
-      "transfers_out_event": 9670
+      "transfers_in_event": 15634,
+      "transfers_out_event": 9773
     },
     {
       "name": "Aina",
@@ -17660,8 +17660,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 8190,
-      "transfers_out_event": 50266
+      "transfers_in_event": 8248,
+      "transfers_out_event": 50770
     },
     {
       "name": "Jair Cunha",
@@ -17681,8 +17681,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 7896,
-      "transfers_out_event": 4091
+      "transfers_in_event": 7994,
+      "transfers_out_event": 4150
     },
     {
       "name": "Savona",
@@ -17703,7 +17703,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 56,
-      "transfers_out_event": 38
+      "transfers_out_event": 40
     },
     {
       "name": "O.Richards",
@@ -17723,8 +17723,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 914,
-      "transfers_out_event": 1739
+      "transfers_in_event": 919,
+      "transfers_out_event": 1749
     },
     {
       "name": "Abbott",
@@ -17745,7 +17745,7 @@
       "news": "Has joined Southampton on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 4281
+      "transfers_out_event": 4299
     },
     {
       "name": "Netz",
@@ -17765,8 +17765,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 101,
-      "transfers_out_event": 361
+      "transfers_in_event": 103,
+      "transfers_out_event": 365
     },
     {
       "name": "Bindon",
@@ -17787,7 +17787,7 @@
       "news": "Has joined Charlton Athletic on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2348
+      "transfers_out_event": 2365
     },
     {
       "name": "Gibbs-White",
@@ -17807,8 +17807,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 169403,
-      "transfers_out_event": 144642
+      "transfers_in_event": 172116,
+      "transfers_out_event": 146369
     },
     {
       "name": "Hudson-Odoi",
@@ -17828,8 +17828,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 765,
-      "transfers_out_event": 3312
+      "transfers_in_event": 769,
+      "transfers_out_event": 3340
     },
     {
       "name": "Ndoye",
@@ -17849,8 +17849,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 9684,
-      "transfers_out_event": 12790
+      "transfers_in_event": 9754,
+      "transfers_out_event": 12910
     },
     {
       "name": "Hutchinson",
@@ -17871,7 +17871,7 @@
       "news": "Has joined AC Milan on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2640
+      "transfers_out_event": 2657
     },
     {
       "name": "Bakwa",
@@ -17912,8 +17912,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1935,
-      "transfers_out_event": 1392
+      "transfers_in_event": 1943,
+      "transfers_out_event": 1403
     },
     {
       "name": "Dominguez",
@@ -17933,8 +17933,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 310,
-      "transfers_out_event": 873
+      "transfers_in_event": 312,
+      "transfers_out_event": 876
     },
     {
       "name": "I.Sangar?",
@@ -17954,8 +17954,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 2621,
-      "transfers_out_event": 11739
+      "transfers_in_event": 2646,
+      "transfers_out_event": 11923
     },
     {
       "name": "Yates",
@@ -17975,8 +17975,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 7583,
-      "transfers_out_event": 15808
+      "transfers_in_event": 7622,
+      "transfers_out_event": 15904
     },
     {
       "name": "Wood",
@@ -17996,8 +17996,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 4533,
-      "transfers_out_event": 21690
+      "transfers_in_event": 4548,
+      "transfers_out_event": 21859
     },
     {
       "name": "Igor Jesus",
@@ -18017,8 +18017,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12668,
-      "transfers_out_event": 72901
+      "transfers_in_event": 12740,
+      "transfers_out_event": 73586
     },
     {
       "name": "Kalimuendo",
@@ -18038,8 +18038,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1144,
-      "transfers_out_event": 862
+      "transfers_in_event": 1149,
+      "transfers_out_event": 865
     },
     {
       "name": "Schlager",
@@ -18059,8 +18059,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1026,
-      "transfers_out_event": 1251
+      "transfers_in_event": 1035,
+      "transfers_out_event": 1258
     },
     {
       "name": "Diomande",
@@ -18080,8 +18080,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1470,
-      "transfers_out_event": 7945
+      "transfers_in_event": 1478,
+      "transfers_out_event": 8000
     },
     {
       "name": "Benda",
@@ -18101,8 +18101,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 535,
-      "transfers_out_event": 619
+      "transfers_in_event": 538,
+      "transfers_out_event": 623
     },
     {
       "name": "Van Hecke",
@@ -18122,8 +18122,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 36484,
-      "transfers_out_event": 81414
+      "transfers_in_event": 37027,
+      "transfers_out_event": 82240
     },
     {
       "name": "Tosin",
@@ -18143,8 +18143,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 632,
-      "transfers_out_event": 1621
+      "transfers_in_event": 636,
+      "transfers_out_event": 1631
     },
     {
       "name": "Marmoush",
@@ -18164,8 +18164,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 46077,
-      "transfers_out_event": 40343
+      "transfers_in_event": 46517,
+      "transfers_out_event": 40615
     },
     {
       "name": "S?vio",
@@ -18185,8 +18185,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 12896,
-      "transfers_out_event": 13545
+      "transfers_in_event": 13061,
+      "transfers_out_event": 13675
     },
     {
       "name": "Tonali",
@@ -18206,8 +18206,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12757,
-      "transfers_out_event": 43448
+      "transfers_in_event": 12827,
+      "transfers_out_event": 43824
     },
     {
       "name": "Vicario",
@@ -18228,7 +18228,7 @@
       "news": "Has joined Juventus on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 2472
+      "transfers_out_event": 2485
     },
     {
       "name": "Austin",
@@ -18248,8 +18248,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 8446,
-      "transfers_out_event": 5488
+      "transfers_in_event": 8526,
+      "transfers_out_event": 5540
     },
     {
       "name": "Kinsky",
@@ -18259,7 +18259,7 @@
       "total_points": 9,
       "points_per_game": "3.0",
       "form": "3.0",
-      "selected_by_percent": "18.1",
+      "selected_by_percent": "18.0",
       "minutes": 270,
       "starts": 3,
       "goals_scored": 0,
@@ -18269,8 +18269,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 141730,
-      "transfers_out_event": 225187
+      "transfers_in_event": 143951,
+      "transfers_out_event": 227871
     },
     {
       "name": "Dubravka",
@@ -18290,8 +18290,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 139468,
-      "transfers_out_event": 122162
+      "transfers_in_event": 141930,
+      "transfers_out_event": 123615
     },
     {
       "name": "Senesi",
@@ -18311,8 +18311,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 4253,
-      "transfers_out_event": 107423
+      "transfers_in_event": 4285,
+      "transfers_out_event": 108267
     },
     {
       "name": "Pedro Porro",
@@ -18332,8 +18332,8 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 48385,
-      "transfers_out_event": 124726
+      "transfers_in_event": 48436,
+      "transfers_out_event": 127107
     },
     {
       "name": "Romero",
@@ -18354,7 +18354,7 @@
       "news": "Has joined Atletico Madrid permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1354
+      "transfers_out_event": 1360
     },
     {
       "name": "Robertson",
@@ -18374,8 +18374,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5432,
-      "transfers_out_event": 62232
+      "transfers_in_event": 5539,
+      "transfers_out_event": 62767
     },
     {
       "name": "Van de Ven",
@@ -18395,8 +18395,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 33381,
-      "transfers_out_event": 23434
+      "transfers_in_event": 33642,
+      "transfers_out_event": 23615
     },
     {
       "name": "Spence",
@@ -18417,7 +18417,7 @@
       "news": "Has joined Internazionale permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 5312
+      "transfers_out_event": 5341
     },
     {
       "name": "Udogie",
@@ -18437,8 +18437,8 @@
       "status": "d",
       "news": "Unspecified injury - 75% chance of playing",
       "chance_of_playing_next_round": 75,
-      "transfers_in_event": 1475,
-      "transfers_out_event": 4267
+      "transfers_in_event": 1476,
+      "transfers_out_event": 4330
     },
     {
       "name": "Phillips",
@@ -18459,7 +18459,7 @@
       "news": "Has joined Middlesbrough permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 138
+      "transfers_out_event": 139
     },
     {
       "name": "Davies",
@@ -18479,8 +18479,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2521,
-      "transfers_out_event": 8819
+      "transfers_in_event": 2550,
+      "transfers_out_event": 8882
     },
     {
       "name": "Byfield",
@@ -18500,8 +18500,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 608,
-      "transfers_out_event": 562
+      "transfers_in_event": 612,
+      "transfers_out_event": 565
     },
     {
       "name": "Rowswell",
@@ -18521,8 +18521,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 804,
-      "transfers_out_event": 746
+      "transfers_in_event": 817,
+      "transfers_out_event": 753
     },
     {
       "name": "Souza",
@@ -18543,7 +18543,7 @@
       "news": "Has joined FC Porto on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 4723
+      "transfers_out_event": 4742
     },
     {
       "name": "Kudus",
@@ -18563,8 +18563,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 3146,
-      "transfers_out_event": 2620
+      "transfers_in_event": 3175,
+      "transfers_out_event": 2638
     },
     {
       "name": "Xavi",
@@ -18585,7 +18585,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 86,
-      "transfers_out_event": 193
+      "transfers_out_event": 194
     },
     {
       "name": "Tel",
@@ -18605,8 +18605,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1770,
-      "transfers_out_event": 8244
+      "transfers_in_event": 1786,
+      "transfers_out_event": 8304
     },
     {
       "name": "Maddison",
@@ -18626,8 +18626,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 433,
-      "transfers_out_event": 13416
+      "transfers_in_event": 442,
+      "transfers_out_event": 13483
     },
     {
       "name": "Bentancur",
@@ -18647,8 +18647,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1207,
-      "transfers_out_event": 1379
+      "transfers_in_event": 1213,
+      "transfers_out_event": 1393
     },
     {
       "name": "Odobert",
@@ -18690,7 +18690,7 @@
       "news": "Has joined Juventus on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 4610
+      "transfers_out_event": 4633
     },
     {
       "name": "Gallagher",
@@ -18710,8 +18710,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 799,
-      "transfers_out_event": 2515
+      "transfers_in_event": 809,
+      "transfers_out_event": 2538
     },
     {
       "name": "Bergvall",
@@ -18731,8 +18731,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 314,
-      "transfers_out_event": 1955
+      "transfers_in_event": 318,
+      "transfers_out_event": 1973
     },
     {
       "name": "Kulusevski",
@@ -18753,7 +18753,7 @@
       "news": "Knee injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 80,
-      "transfers_out_event": 152
+      "transfers_out_event": 153
     },
     {
       "name": "Gray",
@@ -18773,8 +18773,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 864,
-      "transfers_out_event": 3277
+      "transfers_in_event": 870,
+      "transfers_out_event": 3301
     },
     {
       "name": "Moore",
@@ -18795,7 +18795,7 @@
       "news": "Has joined FC K?ln on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 5432
+      "transfers_out_event": 5463
     },
     {
       "name": "Olusesi",
@@ -18815,8 +18815,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 12262,
-      "transfers_out_event": 7791
+      "transfers_in_event": 13017,
+      "transfers_out_event": 7943
     },
     {
       "name": "Fernandes",
@@ -18836,8 +18836,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1804,
-      "transfers_out_event": 29462
+      "transfers_in_event": 1822,
+      "transfers_out_event": 29636
     },
     {
       "name": "Solanke",
@@ -18857,8 +18857,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 5694,
-      "transfers_out_event": 19534
+      "transfers_in_event": 5727,
+      "transfers_out_event": 19693
     },
     {
       "name": "Richarlison",
@@ -18879,7 +18879,7 @@
       "news": "not included in squad.",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 68441
+      "transfers_out_event": 68942
     },
     {
       "name": "Scarlett",
@@ -18900,7 +18900,7 @@
       "news": "Has joined Leyton Orient permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 30800
+      "transfers_out_event": 30960
     },
     {
       "name": "Mudryk",
@@ -18921,7 +18921,7 @@
       "news": "Ankle injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 1620,
-      "transfers_out_event": 2243
+      "transfers_out_event": 2266
     },
     {
       "name": "Williams-Barnett",
@@ -18941,8 +18941,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2307,
-      "transfers_out_event": 1901
+      "transfers_in_event": 2315,
+      "transfers_out_event": 1915
     },
     {
       "name": "Danso",
@@ -18962,8 +18962,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1545,
-      "transfers_out_event": 1730
+      "transfers_in_event": 1561,
+      "transfers_out_event": 1740
     },
     {
       "name": "Roefs",
@@ -18983,8 +18983,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2261,
-      "transfers_out_event": 49256
+      "transfers_in_event": 2272,
+      "transfers_out_event": 49774
     },
     {
       "name": "Patterson",
@@ -19005,7 +19005,7 @@
       "news": "Has joined Wrexham permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 983
+      "transfers_out_event": 985
     },
     {
       "name": "Ellborg",
@@ -19026,7 +19026,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 234,
-      "transfers_out_event": 715
+      "transfers_out_event": 721
     },
     {
       "name": "Ballard",
@@ -19046,8 +19046,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 7083,
-      "transfers_out_event": 100172
+      "transfers_in_event": 7129,
+      "transfers_out_event": 101650
     },
     {
       "name": "Mukiele",
@@ -19067,8 +19067,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 6839,
-      "transfers_out_event": 28064
+      "transfers_in_event": 6872,
+      "transfers_out_event": 28433
     },
     {
       "name": "Hume",
@@ -19088,8 +19088,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 3558,
-      "transfers_out_event": 149809
+      "transfers_in_event": 3583,
+      "transfers_out_event": 151430
     },
     {
       "name": "Alderete",
@@ -19109,8 +19109,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 399,
-      "transfers_out_event": 6623
+      "transfers_in_event": 400,
+      "transfers_out_event": 6696
     },
     {
       "name": "Reinildo",
@@ -19130,8 +19130,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 768,
-      "transfers_out_event": 5016
+      "transfers_in_event": 774,
+      "transfers_out_event": 5083
     },
     {
       "name": "Seelt",
@@ -19173,7 +19173,7 @@
       "news": "Has joined KV Mechelen on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 400
+      "transfers_out_event": 402
     },
     {
       "name": "O'Nien",
@@ -19193,8 +19193,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 2639,
-      "transfers_out_event": 33436
+      "transfers_in_event": 2660,
+      "transfers_out_event": 33742
     },
     {
       "name": "Masuaku",
@@ -19215,7 +19215,7 @@
       "news": "Has joined Konyaspor permanently",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1707
+      "transfers_out_event": 1712
     },
     {
       "name": "Meunier",
@@ -19235,8 +19235,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": 100,
-      "transfers_in_event": 769,
-      "transfers_out_event": 2488
+      "transfers_in_event": 777,
+      "transfers_out_event": 2535
     },
     {
       "name": "E.Le F?e",
@@ -19256,8 +19256,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 9013,
-      "transfers_out_event": 142838
+      "transfers_in_event": 9066,
+      "transfers_out_event": 144662
     },
     {
       "name": "Diarra",
@@ -19278,7 +19278,7 @@
       "news": "Hamstring injury - Unknown return date",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 27,
-      "transfers_out_event": 1511
+      "transfers_out_event": 1519
     },
     {
       "name": "Xhaka",
@@ -19298,8 +19298,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 23254,
-      "transfers_out_event": 60160
+      "transfers_in_event": 23382,
+      "transfers_out_event": 60721
     },
     {
       "name": "Sadiki",
@@ -19319,8 +19319,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1066,
-      "transfers_out_event": 4820
+      "transfers_in_event": 1081,
+      "transfers_out_event": 4871
     },
     {
       "name": "Adingra",
@@ -19341,7 +19341,7 @@
       "news": "Has joined Ajax on loan for the rest of the season",
       "chance_of_playing_next_round": 0,
       "transfers_in_event": 0,
-      "transfers_out_event": 1077
+      "transfers_out_event": 1081
     },
     {
       "name": "Mundle",
@@ -19383,7 +19383,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 128,
-      "transfers_out_event": 627
+      "transfers_out_event": 632
     },
     {
       "name": "Talbi",
@@ -19404,7 +19404,7 @@
       "news": "",
       "chance_of_playing_next_round": null,
       "transfers_in_event": 212,
-      "transfers_out_event": 2518
+      "transfers_out_event": 2536
     },
     {
       "name": "Jocelin.T",
@@ -19424,7 +19424,7 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 77,
+      "transfers_in_event": 79,
       "transfers_out_event": 91
     },
     {
@@ -19445,8 +19445,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1429,
-      "transfers_out_event": 3104
+      "transfers_in_event": 1437,
+      "transfers_out_event": 3124
     },
     {
       "name": "Brobbey",
@@ -19466,8 +19466,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 13774,
-      "transfers_out_event": 255209
+      "transfers_in_event": 13838,
+      "transfers_out_event": 257812
     },
     {
       "name": "Isidor",
@@ -19487,8 +19487,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 47044,
-      "transfers_out_event": 21907
+      "transfers_in_event": 47324,
+      "transfers_out_event": 22088
     },
     {
       "name": "Methalie",
@@ -19509,7 +19509,7 @@
       "news": "",
       "chance_of_playing_next_round": 100,
       "transfers_in_event": 184,
-      "transfers_out_event": 200
+      "transfers_out_event": 203
     },
     {
       "name": "Ahoka",
@@ -19529,8 +19529,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 6861,
-      "transfers_out_event": 4337
+      "transfers_in_event": 6894,
+      "transfers_out_event": 4361
     },
     {
       "name": "Fofana",
@@ -19550,8 +19550,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 1187,
-      "transfers_out_event": 549
+      "transfers_in_event": 1192,
+      "transfers_out_event": 556
     },
     {
       "name": "J.Angulo",
@@ -19571,8 +19571,8 @@
       "status": "a",
       "news": "",
       "chance_of_playing_next_round": null,
-      "transfers_in_event": 31945,
-      "transfers_out_event": 9367
+      "transfers_in_event": 32171,
+      "transfers_out_event": 9464
     }
   ]
 }
