@@ -282,7 +282,7 @@ def set_piece_value(player, team_xg_for, pens_per_game=0.12):
 # 17. TACTICAL / ROLE-CHANGE DETECTOR
 # =========================================================
 
-def detect_role_change(gw_history, recent_n=3):
+def detect_role_change(gw_history, recent_n=3, hard_recent_n=2):
     """
     gw_history: list of per-GW dicts for ONE player with keys
                 gw, minutes, starts, position, penalties_order, xg, xa
@@ -298,6 +298,14 @@ def detect_role_change(gw_history, recent_n=3):
     r_mins = sum(g['minutes'] for g in recent) / len(recent)
     e_mins = sum(g['minutes'] for g in earlier) / len(earlier)
 
+    # HARD recency check: if the last `hard_recent_n` games were ALL full
+    # starts (>=75 min), treat as nailed regardless of the wider window.
+    # A single substitute cameo right before a role change (e.g. the game
+    # a player broke into the side) shouldn't dilute a now-clear pattern.
+    hard_recent = gw_history[-hard_recent_n:]
+    just_became_nailed = (len(hard_recent) == hard_recent_n and
+                          all(g['minutes'] >= 75 for g in hard_recent))
+
     flags = []
     if r_mins - e_mins >= 25:
         flags.append(f'minutes UP ({e_mins:.0f} -> {r_mins:.0f})')
@@ -312,8 +320,12 @@ def detect_role_change(gw_history, recent_n=3):
     if recent[-1].get('position') != earlier[-1].get('position'):
         flags.append(f"position {earlier[-1].get('position')} -> {recent[-1].get('position')}")
 
+    if just_became_nailed and not flags:
+        flags.append(f'last {hard_recent_n} games both 75+ mins — now nailed')
+
     return {'role_change': bool(flags), 'flags': flags,
             'recent_mins_avg': round(r_mins, 1), 'earlier_mins_avg': round(e_mins, 1),
+            'just_became_nailed': just_became_nailed,
             'guidance': ('Weight RECENT games heavily — this is a step change, '
                          'not noise.' if flags else 'No role change; use season data.')}
 
