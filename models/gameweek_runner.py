@@ -97,7 +97,7 @@ def build_briefing(feed, gw, my_name='Dennis Roy'):
         rotation_risk = 0.0
         if fx.get('days_rest') is not None and fx['days_rest'] <= 3:
             rotation_risk = 0.2
-        if news['minutes_multiplier'] < 1.0:
+        if news['minutes_multiplier'] < 1.0 and full.get('chance_of_playing_next_round') is None:
             rotation_risk = max(rotation_risk, 1 - news['minutes_multiplier'])
 
         # If a role change shows minutes trending UP, treat as nailed
